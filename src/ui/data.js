@@ -192,6 +192,7 @@ export function bindData(ctx, root) {
         if (!window.confirm('Delete all data stored in this browser for this app? This cannot be undone.')) break;
         ctx.ui.idFilter = null;
         ctx.ui.pendingImport = null;
+        ctx.rememberStartEmpty();
         ctx.commit(emptyState(), 'All data deleted. Start by importing a CSV or loading the sample.');
         break;
       case 'today-apply': {

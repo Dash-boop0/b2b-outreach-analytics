@@ -68,7 +68,8 @@ npm run generate  # node scripts/generate-sample-data.mjs [--seed 20261016] [--o
 
 ## How to use
 
-1. The first visit loads the synthetic sample automatically. The header shows the as-of date.
+1. The first visit loads the synthetic sample automatically. The header shows the as-of date. Click **Start with your own data**
+   in the sample banner to clear it; the choice is remembered on reload, and **Load sample data** brings the sample back.
 2. **Dashboard:** read the funnel and its denominators. Scope it by owner or type, or click **Overdue follow-ups** to jump to those leads.
 3. **Leads:** filter, then click an organisation to edit status, priority, owner, next action or follow-up date, or to log an activity.
 4. **Data quality:** run **Preview clean-up**, then **Apply**. Then work through the duplicate pairs: merge or mark them as not a duplicate.

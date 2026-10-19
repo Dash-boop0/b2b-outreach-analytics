@@ -12,6 +12,8 @@ import { renderMethod } from './ui/method.js';
 import { bindDialog } from './ui/dialog.js';
 
 const SAMPLE_URL = 'sample-data/sample-dataset.json';
+/** Set when the visitor chose to start empty (or reset), so the sample is not auto-loaded again. */
+const START_EMPTY_KEY = `${STORAGE_KEY}.startEmpty`;
 const VIEWS = ['dashboard', 'leads', 'quality', 'data', 'method'];
 
 const ctx = {
@@ -52,6 +54,15 @@ function loadStored() {
   }
 }
 
+function startEmptyChosen() {
+  try { return window.localStorage.getItem(START_EMPTY_KEY) === '1'; } catch { return false; }
+}
+
+/** Remember that the visitor wants their own (empty) workspace rather than the auto-loaded sample. */
+ctx.rememberStartEmpty = () => {
+  try { window.localStorage.setItem(START_EMPTY_KEY, '1'); } catch { /* storage unavailable */ }
+};
+
 function save() {
   try {
     window.localStorage.setItem(STORAGE_KEY, JSON.stringify(ctx.state));
@@ -62,11 +73,11 @@ function save() {
 }
 
 /** Replace state, persist, log and re-render. */
-ctx.commit = (next, message, { log = true } = {}) => {
+ctx.commit = (next, message, { log = true, announce = true } = {}) => {
   ctx.state = log && message ? appendLog(next, message) : next;
   save();
   render();
-  if (message) ctx.announce(message);
+  if (message && announce) ctx.announce(message);
 };
 
 let toastTimer = null;
@@ -83,7 +94,7 @@ ctx.navigate = (view) => {
   else route();
 };
 
-ctx.loadSample = async () => {
+ctx.loadSample = async ({ quiet = false } = {}) => {
   try {
     const res = await fetch(SAMPLE_URL, { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -91,11 +102,11 @@ ctx.loadSample = async () => {
     if (!v.ok) throw new Error(v.errors.join(' '));
     ctx.ui.filters = { ...EMPTY_FILTERS };
     ctx.ui.idFilter = null;
-    ctx.commit(v.state, `Loaded synthetic sample data (${v.state.opportunities.length} prospects).`);
+    ctx.commit(v.state, `Loaded synthetic sample data (${v.state.opportunities.length} prospects).`, { announce: !quiet });
     return true;
   } catch (e) {
     ctx.announce(`Could not load sample data (${e.message}). Serve the folder over http — see README.`);
-    showBanner(`Could not load ${SAMPLE_URL}: ${e.message}. Open the app through a local web server (python3 -m http.server 8000), not as a file.`, true);
+    showBanner(`Could not load ${SAMPLE_URL}: ${e.message}. Open the app through a local web server (python3 -m http.server 8000), not as a file.`, 'error');
     return false;
   }
 };
@@ -113,19 +124,18 @@ ctx.download = (filename, text, type = 'text/csv;charset=utf-8') => {
   ctx.announce(`Downloaded ${filename}`);
 };
 
-function showBanner(html, isError = false) {
-  const b = document.getElementById('banner');
-  b.classList.toggle('error', isError);
-  b.querySelector('.wrap').innerHTML = html;
+function showBanner(html, kind = '', action = '') {
+  document.getElementById('banner').innerHTML = `<div class="sample-banner${kind ? ` is-${kind}` : ''}" role="${kind === 'error' ? 'alert' : 'note'}"><p class="sample-banner__text">${html}</p>${action}</div>`;
 }
 
 function renderBanner() {
   if (!ctx.storageOk) {
-    showBanner('<strong>Browser storage is unavailable.</strong> Changes will be lost when you close this tab — use “Back up data” on the Import / Export page.', true);
+    showBanner('<strong>Browser storage is unavailable.</strong> Changes will be lost when you close this tab — use “Back up data” on the Import / Export page.', 'error');
   } else if (ctx.state.meta?.synthetic) {
-    showBanner('<strong>Synthetic sample data.</strong> All organisations, people and results are fictional and illustrative. This app never sends email or contacts anyone — activities are log entries only.');
+    showBanner('<strong>Synthetic sample data.</strong> All organisations, people and results are fictional and illustrative. This app never sends email or contacts anyone — activities are log entries only.', '',
+      '<button type="button" class="sample-banner__action" data-action="start-own">Start with your own data</button>');
   } else {
-    showBanner('<strong>Your working data.</strong> Stored only in this browser (localStorage). Nothing is uploaded and no email is ever sent — activities are log entries only.');
+    showBanner('<strong>Your working data.</strong> Stored only in this browser (localStorage). Nothing is uploaded and no email is ever sent — activities are log entries only.', 'info');
   }
   const t = ctx.today();
   const custom = ctx.state.settings?.today;
@@ -137,7 +147,7 @@ const RENDERERS = { dashboard: renderDashboard, leads: renderLeads, quality: ren
 function render() {
   renderBanner();
   const view = ctx.ui.view;
-  document.querySelectorAll('.tabs a').forEach((a) => {
+  document.querySelectorAll('#tabs a').forEach((a) => {
     if (a.dataset.tab === view) a.setAttribute('aria-current', 'page');
     else a.removeAttribute('aria-current');
   });
@@ -184,6 +194,15 @@ async function init() {
     if (b.dataset.action === 'load-sample') ctx.loadSample();
     if (b.dataset.action === 'go') ctx.navigate(b.dataset.view);
   });
+  document.getElementById('banner').addEventListener('click', (e) => {
+    if (!e.target.closest('[data-action="start-own"]')) return;
+    ctx.rememberStartEmpty();
+    ctx.ui.filters = { ...EMPTY_FILTERS };
+    ctx.ui.idFilter = null;
+    ctx.ui.pendingImport = null;
+    ctx.commit(emptyState(), 'Sample cleared. Import your own CSV, add a prospect, or load the sample again.');
+    ctx.navigate('dashboard');
+  });
   window.addEventListener('hashchange', route);
   let resizeTimer = null;
   let lastWidth = window.innerWidth;
@@ -196,9 +215,13 @@ async function init() {
   if (stored) {
     ctx.state = stored;
     route();
-  } else {
+  } else if (startEmptyChosen()) {
     route();
-    await ctx.loadSample();
+  } else {
+    // First visit: nothing saved and the sample was never declined, so open the populated demo.
+    route();
+    // Quiet: the synthetic-data banner already explains it; no toast over the dashboard on arrival.
+    await ctx.loadSample({ quiet: true });
   }
 }
 

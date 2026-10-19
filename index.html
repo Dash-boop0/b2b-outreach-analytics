@@ -10,30 +10,38 @@
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
-  <header class="topbar">
-    <div class="wrap">
-      <div class="brand"><span class="logo" aria-hidden="true"></span>B2B Outreach Analytics</div>
-      <nav class="tabs" aria-label="Main">
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="site-header__top">
+        <a class="site-brand" href="#dashboard"><svg class="site-brand__icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="7"/><path class="glyph-s" stroke-width="2.5" d="M8 23V9M8 23h16M12 19l4-5 3 3 5-6"/></svg><span class="site-brand__name">B2B Outreach Analytics</span></a>
+        <div class="site-header__extra" id="asof"></div>
+        <a class="site-home" href="https://dash-boop0.github.io/"><span aria-hidden="true">←</span> All projects</a>
+      </div>
+      <nav class="site-tabs" id="tabs" aria-label="Main">
         <a href="#dashboard" data-tab="dashboard">Dashboard</a>
         <a href="#leads" data-tab="leads">Leads</a>
         <a href="#quality" data-tab="quality">Data quality</a>
         <a href="#data" data-tab="data">Import / Export</a>
         <a href="#method" data-tab="method">Metrics &amp; method</a>
       </nav>
-      <div class="asof" id="asof"></div>
     </div>
   </header>
-  <div class="banner" id="banner" role="note">
-    <div class="wrap"><strong>Synthetic sample data.</strong> All organisations, people and results are fictional. This app never sends email or contacts anyone — activities are log entries only.</div>
-  </div>
-  <main id="main" class="wrap" tabindex="-1">
+  <div class="site-banner" id="banner"></div>
+  <main id="main" class="site-main" tabindex="-1">
     <div id="view"><p class="muted">Loading…</p></div>
     <noscript><p class="errors">This app needs JavaScript enabled.</p></noscript>
   </main>
   <dialog id="dialog" aria-labelledby="dialog-title"></dialog>
   <div id="status" class="status" role="status" aria-live="polite"></div>
-  <footer>
-    <div class="wrap">Portfolio project by <a href="https://dash-boop0.github.io/">Dash-boop0</a> · <a href="https://github.com/Dash-boop0/b2b-outreach-analytics">Source on GitHub</a> · Sample data is synthetic</div>
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <nav class="site-footer__links" aria-label="Portfolio links">
+        <a href="https://dash-boop0.github.io/"><span aria-hidden="true">←</span> All projects</a>
+        <a href="https://github.com/Dash-boop0/b2b-outreach-analytics">Source on GitHub</a>
+        <a href="https://github.com/Dash-boop0/b2b-outreach-analytics/blob/main/LICENSE">MIT licence</a>
+      </nav>
+      <p class="site-footer__note">Sample data is synthetic · Your data stays in this browser</p>
+    </div>
   </footer>
   <script type="module" src="src/app.js"></script>
 </body>
