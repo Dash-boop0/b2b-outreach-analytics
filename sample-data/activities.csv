@@ -1,0 +1,290 @@
+id,opportunityId,contactId,date,type,direction,outcome,note
+act-001,opp-002,con-002,2026-07-27,email,outbound,sent,Intro email logged (not sent by this app)
+act-002,opp-009,con-012,2026-07-27,email,outbound,sent,Intro email logged (not sent by this app)
+act-003,opp-056,con-070,2026-07-27,email,outbound,sent,Intro email logged (not sent by this app)
+act-004,opp-033,con-042,2026-07-28,email,outbound,sent,Intro email logged (not sent by this app)
+act-005,opp-008,con-011,2026-07-29,email,outbound,sent,Intro email logged (not sent by this app)
+act-006,opp-009,con-012,2026-07-29,email,outbound,sent,Follow-up touch
+act-007,opp-090,con-120,2026-07-29,email,outbound,sent,Intro email logged (not sent by this app)
+act-008,opp-058,con-073,2026-07-30,email,outbound,sent,Intro email logged (not sent by this app)
+act-009,opp-056,con-070,2026-07-31,email,outbound,sent,Follow-up touch
+act-010,opp-078,con-101,2026-07-31,email,outbound,sent,Intro email logged (not sent by this app)
+act-011,opp-002,con-002,2026-08-01,call,outbound,voicemail,Follow-up touch
+act-012,opp-058,con-073,2026-08-02,email,outbound,sent,Follow-up touch
+act-013,opp-033,con-042,2026-08-03,linkedin,outbound,sent,Follow-up touch
+act-014,opp-046,con-058,2026-08-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-015,opp-090,con-120,2026-08-03,linkedin,outbound,sent,Follow-up touch
+act-016,opp-058,con-073,2026-08-04,email,inbound,interested,Reply received
+act-017,opp-070,con-090,2026-08-05,email,outbound,sent,Intro email logged (not sent by this app)
+act-018,opp-078,con-101,2026-08-05,call,outbound,no_answer,Follow-up touch
+act-019,opp-009,con-012,2026-08-06,email,outbound,sent,Follow-up touch
+act-020,opp-052,con-065,2026-08-06,email,outbound,sent,Intro email logged (not sent by this app)
+act-021,opp-071,con-091,2026-08-06,email,outbound,sent,Intro email logged (not sent by this app)
+act-022,opp-002,con-002,2026-08-07,email,inbound,interested,Reply received
+act-023,opp-008,con-011,2026-08-07,email,inbound,replied,Reply received
+act-024,opp-056,con-070,2026-08-07,email,outbound,sent,Follow-up touch
+act-025,opp-065,con-083,2026-08-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-026,opp-092,con-122,2026-08-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-027,opp-099,con-132,2026-08-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-028,opp-052,con-065,2026-08-10,email,inbound,interested,Reply received
+act-029,opp-001,con-001,2026-08-11,email,outbound,sent,Intro email logged (not sent by this app)
+act-030,opp-003,con-004,2026-08-11,email,outbound,sent,Intro email logged (not sent by this app)
+act-031,opp-044,con-056,2026-08-11,email,outbound,sent,Intro email logged (not sent by this app)
+act-032,opp-070,con-090,2026-08-11,call,outbound,voicemail,Follow-up touch
+act-033,opp-033,con-042,2026-08-12,call,outbound,no_answer,Follow-up touch
+act-034,opp-046,con-058,2026-08-12,email,outbound,sent,Follow-up touch
+act-035,opp-058,con-073,2026-08-12,call,outbound,interested,Qualification call
+act-036,opp-090,con-120,2026-08-12,email,inbound,interested,Reply received
+act-037,opp-001,con-001,2026-08-13,email,outbound,sent,Follow-up touch
+act-038,opp-002,con-002,2026-08-13,call,outbound,interested,Qualification call
+act-039,opp-048,con-060,2026-08-13,email,outbound,sent,Intro email logged (not sent by this app)
+act-040,opp-070,con-090,2026-08-13,email,inbound,interested,Reply received
+act-041,opp-072,con-093,2026-08-13,email,outbound,sent,Intro email logged (not sent by this app)
+act-042,opp-003,con-004,2026-08-14,email,outbound,sent,Follow-up touch
+act-043,opp-009,con-012,2026-08-14,email,outbound,sent,Closing the loop — marked lost after no response
+act-044,opp-017,con-021,2026-08-14,email,outbound,sent,Intro email logged (not sent by this app)
+act-045,opp-044,con-056,2026-08-14,call,outbound,no_answer,Follow-up touch
+act-046,opp-090,con-120,2026-08-14,call,outbound,interested,Qualification call
+act-047,opp-099,con-132,2026-08-14,email,inbound,interested,Reply received
+act-048,opp-045,con-057,2026-08-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-049,opp-054,con-067,2026-08-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-050,opp-071,con-091,2026-08-15,call,outbound,no_answer,Follow-up touch
+act-051,opp-052,con-065,2026-08-16,call,outbound,interested,Qualification call
+act-052,opp-056,con-070,2026-08-16,call,outbound,no_answer,Follow-up touch
+act-053,opp-091,con-121,2026-08-16,email,outbound,sent,Intro email logged (not sent by this app)
+act-054,opp-003,con-004,2026-08-17,email,inbound,interested,Reply received
+act-055,opp-021,con-026,2026-08-17,email,outbound,sent,Intro email logged (not sent by this app)
+act-056,opp-048,con-060,2026-08-17,call,outbound,voicemail,Follow-up touch
+act-057,opp-065,con-083,2026-08-17,email,outbound,sent,Follow-up touch
+act-058,opp-054,con-067,2026-08-18,email,outbound,sent,Follow-up touch
+act-059,opp-070,con-090,2026-08-18,call,outbound,interested,Qualification call
+act-060,opp-091,con-121,2026-08-18,email,inbound,interested,Reply received
+act-061,opp-099,con-132,2026-08-18,call,outbound,interested,Qualification call
+act-062,opp-017,con-021,2026-08-19,linkedin,outbound,sent,Follow-up touch
+act-063,opp-044,con-056,2026-08-19,linkedin,outbound,sent,Follow-up touch
+act-064,opp-046,con-058,2026-08-19,call,outbound,voicemail,Follow-up touch
+act-065,opp-063,con-080,2026-08-19,email,outbound,sent,Intro email logged (not sent by this app)
+act-066,opp-053,con-066,2026-08-20,email,outbound,sent,Intro email logged (not sent by this app)
+act-067,opp-064,con-081,2026-08-20,email,outbound,sent,Intro email logged (not sent by this app)
+act-068,opp-072,con-093,2026-08-20,email,inbound,not_interested,Replied: no budget this year
+act-069,opp-091,con-121,2026-08-20,call,outbound,interested,Qualification call
+act-070,opp-090,con-120,2026-08-21,email,outbound,meeting_booked,Meeting invite agreed
+act-071,opp-001,con-001,2026-08-22,email,outbound,sent,Follow-up touch
+act-072,opp-002,con-002,2026-08-22,email,outbound,meeting_booked,Meeting invite agreed
+act-073,opp-021,con-026,2026-08-22,email,outbound,sent,Closing the loop — marked lost after no response
+act-074,opp-066,con-084,2026-08-22,email,outbound,sent,Intro email logged (not sent by this app)
+act-075,opp-091,con-121,2026-08-22,email,outbound,meeting_booked,Meeting invite agreed
+act-076,opp-099,con-132,2026-08-22,email,outbound,meeting_booked,Meeting invite agreed
+act-077,opp-003,con-004,2026-08-23,call,outbound,interested,Qualification call
+act-078,opp-025,con-032,2026-08-23,email,outbound,sent,Intro email logged (not sent by this app)
+act-079,opp-044,con-056,2026-08-23,linkedin,outbound,sent,Follow-up touch
+act-080,opp-048,con-060,2026-08-24,email,inbound,interested,Reply received
+act-081,opp-053,con-066,2026-08-24,call,outbound,voicemail,Follow-up touch
+act-082,opp-054,con-067,2026-08-24,email,outbound,sent,Follow-up touch
+act-083,opp-070,con-090,2026-08-24,email,outbound,meeting_booked,Meeting invite agreed
+act-084,opp-071,con-091,2026-08-24,email,outbound,sent,Follow-up touch
+act-085,opp-001,con-001,2026-08-25,linkedin,outbound,sent,Follow-up touch
+act-086,opp-011,con-015,2026-08-25,email,outbound,sent,Intro email logged (not sent by this app)
+act-087,opp-047,con-059,2026-08-25,email,outbound,sent,Intro email logged (not sent by this app)
+act-088,opp-017,con-021,2026-08-26,email,outbound,sent,Follow-up touch
+act-089,opp-063,con-080,2026-08-26,email,outbound,sent,Follow-up touch
+act-090,opp-065,con-083,2026-08-26,email,inbound,interested,Reply received
+act-091,opp-099,con-132,2026-08-26,meeting,outbound,meeting_held,Discovery meeting
+act-092,opp-046,con-058,2026-08-28,linkedin,outbound,sent,Follow-up touch
+act-093,opp-081,con-107,2026-08-28,email,outbound,sent,Intro email logged (not sent by this app)
+act-094,opp-085,con-112,2026-08-28,email,outbound,sent,Intro email logged (not sent by this app)
+act-095,opp-090,con-120,2026-08-28,meeting,outbound,meeting_held,Discovery meeting
+act-096,opp-099,con-132,2026-08-28,email,outbound,proposal_sent,Proposal shared
+act-097,opp-044,con-056,2026-08-29,email,outbound,sent,Closing the loop — marked lost after no response
+act-098,opp-064,con-081,2026-08-29,linkedin,outbound,sent,Follow-up touch
+act-099,opp-066,con-084,2026-08-29,email,inbound,interested,Reply received
+act-100,opp-071,con-091,2026-08-29,linkedin,outbound,sent,Follow-up touch
+act-101,opp-091,con-121,2026-08-29,meeting,outbound,meeting_held,Discovery meeting
+act-102,opp-007,con-010,2026-08-30,email,outbound,sent,Intro email logged (not sent by this app)
+act-103,opp-017,con-021,2026-08-30,email,outbound,sent,Closing the loop — marked lost after no response
+act-104,opp-063,con-080,2026-08-30,linkedin,outbound,sent,Follow-up touch
+act-105,opp-083,con-110,2026-08-30,email,outbound,sent,Intro email logged (not sent by this app)
+act-106,opp-086,con-113,2026-08-30,email,outbound,sent,Intro email logged (not sent by this app)
+act-107,opp-002,con-002,2026-08-31,email,inbound,not_interested,Chose another option
+act-108,opp-003,con-004,2026-08-31,email,outbound,meeting_booked,Meeting invite agreed
+act-109,opp-013,con-017,2026-08-31,email,outbound,sent,Intro email logged (not sent by this app)
+act-110,opp-048,con-060,2026-08-31,call,outbound,interested,Qualification call
+act-111,opp-054,con-067,2026-08-31,linkedin,outbound,sent,Follow-up touch
+act-112,opp-011,con-015,2026-09-01,email,outbound,sent,Follow-up touch
+act-113,opp-025,con-032,2026-09-01,email,outbound,sent,Follow-up touch
+act-114,opp-047,con-059,2026-09-01,email,inbound,interested,Reply received
+act-115,opp-053,con-066,2026-09-01,linkedin,outbound,sent,Follow-up touch
+act-116,opp-065,con-083,2026-09-01,call,outbound,not_interested,Qualification call
+act-117,opp-036,con-045,2026-09-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-118,opp-073,con-094,2026-09-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-119,opp-087,con-115,2026-09-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-120,opp-097,con-130,2026-09-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-121,opp-055,con-068,2026-09-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-122,opp-075,con-096,2026-09-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-123,opp-085,con-112,2026-09-03,email,inbound,interested,Reply received
+act-124,opp-086,con-113,2026-09-03,linkedin,outbound,sent,Follow-up touch
+act-125,opp-090,con-120,2026-09-03,email,outbound,proposal_sent,Proposal shared
+act-126,opp-007,con-010,2026-09-04,email,inbound,interested,Reply received
+act-127,opp-013,con-017,2026-09-04,linkedin,outbound,sent,Follow-up touch
+act-128,opp-059,con-074,2026-09-04,email,outbound,sent,Intro email logged (not sent by this app)
+act-129,opp-063,con-080,2026-09-04,call,outbound,voicemail,Follow-up touch
+act-130,opp-081,con-107,2026-09-04,call,outbound,voicemail,Follow-up touch
+act-131,opp-087,con-115,2026-09-04,call,outbound,voicemail,Follow-up touch
+act-132,opp-003,con-004,2026-09-05,meeting,outbound,meeting_held,Discovery meeting
+act-133,opp-026,con-034,2026-09-05,email,outbound,sent,Intro email logged (not sent by this app)
+act-134,opp-064,con-081,2026-09-05,email,inbound,interested,Reply received
+act-135,opp-085,con-112,2026-09-05,call,outbound,interested,Qualification call
+act-136,opp-007,con-010,2026-09-06,call,outbound,interested,Qualification call
+act-137,opp-027,con-035,2026-09-06,email,outbound,sent,Intro email logged (not sent by this app)
+act-138,opp-066,con-084,2026-09-06,call,outbound,interested,Qualification call
+act-139,opp-073,con-094,2026-09-06,email,inbound,replied,Reply received
+act-140,opp-083,con-110,2026-09-06,call,outbound,voicemail,Follow-up touch
+act-141,opp-097,con-130,2026-09-06,email,inbound,replied,Reply received
+act-142,opp-042,con-053,2026-09-07,email,outbound,sent,Intro email logged (not sent by this app)
+act-143,opp-048,con-060,2026-09-07,email,outbound,meeting_booked,Meeting invite agreed
+act-144,opp-053,con-066,2026-09-07,linkedin,outbound,sent,Follow-up touch
+act-145,opp-059,con-074,2026-09-07,call,outbound,no_answer,Follow-up touch
+act-146,opp-023,con-029,2026-09-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-147,opp-031,con-040,2026-09-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-148,opp-055,con-068,2026-09-08,call,outbound,voicemail,Follow-up touch
+act-149,opp-061,con-077,2026-09-08,email,outbound,sent,Intro email logged (not sent by this app)
+act-150,opp-085,con-112,2026-09-08,email,outbound,meeting_booked,Meeting invite agreed
+act-151,opp-086,con-113,2026-09-08,linkedin,outbound,sent,Follow-up touch
+act-152,opp-011,con-015,2026-09-09,email,inbound,replied,Reply received
+act-153,opp-066,con-084,2026-09-09,email,outbound,meeting_booked,Meeting invite agreed
+act-154,opp-023,con-029,2026-09-10,email,outbound,sent,Follow-up touch
+act-155,opp-031,con-040,2026-09-10,linkedin,outbound,sent,Follow-up touch
+act-156,opp-042,con-053,2026-09-10,call,outbound,voicemail,Follow-up touch
+act-157,opp-047,con-059,2026-09-10,call,outbound,not_interested,Qualification call
+act-158,opp-075,con-096,2026-09-10,call,outbound,no_answer,Follow-up touch
+act-159,opp-090,con-120,2026-09-10,email,inbound,replied,Confirmed go-ahead (synthetic)
+act-160,opp-066,con-084,2026-09-11,meeting,outbound,meeting_held,Discovery meeting
+act-161,opp-069,con-089,2026-09-11,email,outbound,sent,Intro email logged (not sent by this app)
+act-162,opp-079,con-103,2026-09-11,email,outbound,sent,Intro email logged (not sent by this app)
+act-163,opp-081,con-107,2026-09-11,linkedin,outbound,sent,Follow-up touch
+act-164,opp-004,con-006,2026-09-12,email,outbound,sent,Intro email logged (not sent by this app)
+act-165,opp-023,con-029,2026-09-12,email,outbound,sent,Follow-up touch
+act-166,opp-026,con-034,2026-09-12,email,inbound,not_interested,Replied: no budget this year
+act-167,opp-027,con-035,2026-09-12,email,inbound,interested,Reply received
+act-168,opp-059,con-074,2026-09-12,email,inbound,interested,Reply received
+act-169,opp-061,con-077,2026-09-12,email,outbound,sent,Closing the loop — marked lost after no response
+act-170,opp-064,con-081,2026-09-13,call,outbound,interested,Qualification call
+act-171,opp-069,con-089,2026-09-13,email,inbound,replied,Reply received
+act-172,opp-042,con-053,2026-09-14,email,outbound,sent,Follow-up touch
+act-173,opp-083,con-110,2026-09-14,email,inbound,interested,Reply received
+act-174,opp-004,con-006,2026-09-15,email,outbound,sent,Closing the loop — marked lost after no response
+act-175,opp-007,con-010,2026-09-15,email,outbound,meeting_booked,Meeting invite agreed
+act-176,opp-020,con-025,2026-09-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-177,opp-048,con-060,2026-09-15,meeting,outbound,meeting_held,Discovery meeting
+act-178,opp-064,con-081,2026-09-15,email,outbound,meeting_booked,Meeting invite agreed
+act-179,opp-077,con-100,2026-09-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-180,opp-079,con-103,2026-09-15,email,inbound,replied,Reply received
+act-181,opp-085,con-112,2026-09-15,meeting,outbound,meeting_held,Discovery meeting
+act-182,opp-096,con-129,2026-09-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-183,opp-100,con-133,2026-09-15,email,outbound,sent,Intro email logged (not sent by this app)
+act-184,opp-086,con-113,2026-09-16,linkedin,outbound,sent,Follow-up touch
+act-185,opp-019,con-023,2026-09-17,email,outbound,sent,Intro email logged (not sent by this app)
+act-186,opp-027,con-035,2026-09-17,call,outbound,interested,Qualification call
+act-187,opp-081,con-107,2026-09-17,linkedin,outbound,sent,Follow-up touch
+act-188,opp-032,con-041,2026-09-18,email,outbound,sent,Intro email logged (not sent by this app)
+act-189,opp-064,con-081,2026-09-18,meeting,outbound,meeting_held,Discovery meeting
+act-190,opp-066,con-084,2026-09-18,email,outbound,proposal_sent,Proposal shared
+act-191,opp-098,con-131,2026-09-18,email,outbound,sent,Intro email logged (not sent by this app)
+act-192,opp-014,con-018,2026-09-19,email,outbound,sent,Intro email logged (not sent by this app)
+act-193,opp-020,con-025,2026-09-19,call,outbound,voicemail,Follow-up touch
+act-194,opp-023,con-029,2026-09-19,call,outbound,no_answer,Follow-up touch
+act-195,opp-031,con-040,2026-09-19,call,outbound,voicemail,Follow-up touch
+act-196,opp-075,con-096,2026-09-19,call,outbound,voicemail,Follow-up touch
+act-197,opp-039,con-049,2026-09-20,email,outbound,sent,Intro email logged (not sent by this app)
+act-198,opp-059,con-074,2026-09-20,call,outbound,interested,Qualification call
+act-199,opp-007,con-010,2026-09-21,meeting,outbound,meeting_held,Discovery meeting
+act-200,opp-016,con-020,2026-09-21,email,outbound,sent,Intro email logged (not sent by this app)
+act-201,opp-020,con-025,2026-09-21,linkedin,outbound,sent,Follow-up touch
+act-202,opp-042,con-053,2026-09-21,linkedin,outbound,sent,Follow-up touch
+act-203,opp-049,con-061,2026-09-21,email,outbound,sent,Intro email logged (not sent by this app)
+act-204,opp-064,con-081,2026-09-21,email,outbound,proposal_sent,Proposal shared
+act-205,opp-080,con-105,2026-09-21,email,outbound,sent,Intro email logged (not sent by this app)
+act-206,opp-019,con-023,2026-09-22,email,inbound,not_interested,Replied: no budget this year
+act-207,opp-030,con-039,2026-09-22,email,outbound,sent,Intro email logged (not sent by this app)
+act-208,opp-032,con-041,2026-09-22,email,inbound,not_interested,Replied: no budget this year
+act-209,opp-035,con-044,2026-09-22,email,outbound,sent,Intro email logged (not sent by this app)
+act-210,opp-057,con-071,2026-09-22,email,outbound,sent,Intro email logged (not sent by this app)
+act-211,opp-083,con-110,2026-09-22,call,outbound,interested,Qualification call
+act-212,opp-100,con-133,2026-09-22,call,outbound,no_answer,Follow-up touch
+act-213,opp-027,con-035,2026-09-23,email,outbound,meeting_booked,Meeting invite agreed
+act-214,opp-028,con-036,2026-09-23,email,outbound,sent,Intro email logged (not sent by this app)
+act-215,opp-077,con-100,2026-09-23,call,outbound,voicemail,Follow-up touch
+act-216,opp-042,con-053,2026-09-24,email,outbound,sent,Closing the loop — marked lost after no response
+act-217,opp-048,con-060,2026-09-24,email,outbound,proposal_sent,Proposal shared
+act-218,opp-083,con-110,2026-09-24,email,outbound,meeting_booked,Meeting invite agreed
+act-219,opp-006,con-009,2026-09-25,email,outbound,sent,Intro email logged (not sent by this app)
+act-220,opp-014,con-018,2026-09-25,email,outbound,sent,Follow-up touch
+act-221,opp-016,con-020,2026-09-25,linkedin,outbound,sent,Follow-up touch
+act-222,opp-039,con-049,2026-09-25,email,inbound,interested,Reply received
+act-223,opp-064,con-081,2026-09-25,email,inbound,not_interested,Chose another option
+act-224,opp-080,con-105,2026-09-25,call,outbound,no_answer,Follow-up touch
+act-225,opp-098,con-131,2026-09-25,email,inbound,interested,Reply received
+act-226,opp-088,con-116,2026-09-26,email,outbound,sent,Intro email logged (not sent by this app)
+act-227,opp-038,con-047,2026-09-27,email,outbound,sent,Intro email logged (not sent by this app)
+act-228,opp-076,con-098,2026-09-27,email,outbound,sent,Intro email logged (not sent by this app)
+act-229,opp-077,con-100,2026-09-27,email,inbound,interested,Reply received
+act-230,opp-007,con-010,2026-09-28,email,outbound,proposal_sent,Proposal shared
+act-231,opp-030,con-039,2026-09-28,email,outbound,sent,Follow-up touch
+act-232,opp-049,con-061,2026-09-28,call,outbound,no_answer,Follow-up touch
+act-233,opp-076,con-098,2026-09-29,email,inbound,replied,Reply received
+act-234,opp-006,con-009,2026-09-30,call,outbound,no_answer,Follow-up touch
+act-235,opp-016,con-020,2026-09-30,email,inbound,not_interested,Replied: no budget this year
+act-236,opp-027,con-035,2026-09-30,meeting,outbound,meeting_held,Discovery meeting
+act-237,opp-057,con-071,2026-09-30,call,outbound,voicemail,Follow-up touch
+act-238,opp-098,con-131,2026-09-30,call,outbound,interested,Qualification call
+act-239,opp-100,con-133,2026-09-30,call,outbound,no_answer,Follow-up touch
+act-240,opp-028,con-036,2026-10-01,call,outbound,voicemail,Follow-up touch
+act-241,opp-035,con-044,2026-10-01,call,outbound,no_answer,Follow-up touch
+act-242,opp-037,con-046,2026-10-01,email,outbound,sent,Intro email logged (not sent by this app)
+act-243,opp-038,con-047,2026-10-01,call,outbound,no_answer,Follow-up touch
+act-244,opp-043,con-054,2026-10-01,email,outbound,sent,Intro email logged (not sent by this app)
+act-245,opp-049,con-061,2026-10-01,call,outbound,voicemail,Follow-up touch
+act-246,opp-083,con-110,2026-10-01,meeting,outbound,meeting_held,Discovery meeting
+act-247,opp-088,con-116,2026-10-01,email,inbound,interested,Reply received
+act-248,opp-015,con-019,2026-10-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-249,opp-057,con-071,2026-10-02,email,inbound,replied,Reply received
+act-250,opp-074,con-095,2026-10-02,email,outbound,sent,Intro email logged (not sent by this app)
+act-251,opp-077,con-100,2026-10-02,call,outbound,interested,Qualification call
+act-252,opp-080,con-105,2026-10-02,email,outbound,sent,Follow-up touch
+act-253,opp-005,con-007,2026-10-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-254,opp-014,con-018,2026-10-03,email,outbound,sent,Follow-up touch
+act-255,opp-035,con-044,2026-10-03,call,outbound,voicemail,Follow-up touch
+act-256,opp-040,con-051,2026-10-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-257,opp-067,con-086,2026-10-03,email,outbound,sent,Intro email logged (not sent by this app)
+act-258,opp-007,con-010,2026-10-04,email,inbound,replied,Confirmed go-ahead (synthetic)
+act-259,opp-015,con-019,2026-10-04,linkedin,outbound,sent,Follow-up touch
+act-260,opp-039,con-049,2026-10-04,call,outbound,interested,Qualification call
+act-261,opp-030,con-039,2026-10-05,email,inbound,replied,Reply received
+act-262,opp-094,con-126,2026-10-05,email,outbound,sent,Intro email logged (not sent by this app)
+act-263,opp-005,con-007,2026-10-06,call,outbound,no_answer,Follow-up touch
+act-264,opp-028,con-036,2026-10-06,email,outbound,sent,Follow-up touch
+act-265,opp-006,con-009,2026-10-07,call,outbound,voicemail,Follow-up touch
+act-266,opp-035,con-044,2026-10-07,email,outbound,sent,Follow-up touch
+act-267,opp-080,con-105,2026-10-07,linkedin,outbound,sent,Follow-up touch
+act-268,opp-084,con-111,2026-10-07,email,outbound,sent,Intro email logged (not sent by this app)
+act-269,opp-088,con-116,2026-10-07,call,outbound,interested,Qualification call
+act-270,opp-094,con-126,2026-10-07,call,outbound,voicemail,Follow-up touch
+act-271,opp-005,con-007,2026-10-08,linkedin,outbound,sent,Follow-up touch
+act-272,opp-015,con-019,2026-10-08,email,outbound,sent,Follow-up touch
+act-273,opp-083,con-110,2026-10-08,email,outbound,proposal_sent,Proposal shared
+act-274,opp-027,con-035,2026-10-09,email,outbound,proposal_sent,Proposal shared
+act-275,opp-043,con-054,2026-10-09,linkedin,outbound,sent,Follow-up touch
+act-276,opp-037,con-046,2026-10-10,linkedin,outbound,sent,Follow-up touch
+act-277,opp-084,con-111,2026-10-11,email,inbound,interested,Reply received
+act-278,opp-015,con-019,2026-10-12,email,outbound,sent,Follow-up touch
+act-279,opp-040,con-051,2026-10-12,email,inbound,replied,Reply received
+act-280,opp-010,con-013,2026-10-13,email,outbound,sent,"Logged, but stage was never updated"
+act-281,opp-037,con-046,2026-10-13,email,outbound,sent,Follow-up touch
+act-282,opp-082,con-109,2026-10-13,email,outbound,sent,Intro email logged (not sent by this app)
+act-283,opp-043,con-054,2026-10-14,linkedin,outbound,sent,Follow-up touch
+act-284,opp-084,con-111,2026-10-14,call,outbound,interested,Qualification call
+act-285,opp-006,con-009,2026-10-15,email,outbound,sent,Closing the loop — marked lost after no response
+act-286,opp-035,con-044,2026-10-15,email,outbound,sent,Closing the loop — marked lost after no response
+act-287,opp-027,con-035,2026-10-16,email,inbound,replied,Confirmed go-ahead (synthetic)
+act-288,opp-082,con-109,2026-10-16,email,outbound,sent,Closing the loop — marked lost after no response
+act-289,opp-088,con-116,2026-10-16,email,outbound,meeting_booked,Meeting invite agreed

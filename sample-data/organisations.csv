@@ -1,0 +1,101 @@
+id,name,type,domain,region
+org-001,Westbridge Literacy Foundation (synthetic),NGO,westbridge-literacy-foundation.example.org,Central
+org-002,Westholt Primary School (synthetic),School,westholt-primary-school.example.org,Central
+org-003,Amberfold County Council (synthetic),Council,amberfold-county-council.example.org,North
+org-004,Larkwick Primary School (synthetic),School,larkwick-primary-school.example.org,North
+org-005,Elmholt Academy (synthetic),School,elmholt-academy.example.org,East
+org-006,Stonemoor Academy (synthetic),School,stonemoor-academy.example.org,South
+org-007,Hazelmere Sixth Form College (synthetic),School,hazelmere-sixth-form-college.example.org,West
+org-008,Amberbridge High School (synthetic),School,amberbridge-high-school.example.org,South
+org-009,Ambervale Sixth Form College (synthetic),School,ambervale-sixth-form-college.example.org,North
+org-010,Westbrook Academy (synthetic),School,westbrook-academy.example.org,East
+org-011,Stonecombe Community Learning Trust (synthetic),NGO,stonecombe-community-learning-trust.example.org,West
+org-012,Larkvale Community Learning Trust (synthetic),NGO,larkvale-community-learning-trust.example.org,Central
+org-013,Southbrook Children's Hospital (synthetic),Hospital,southbrook-childrens-hospital.example.org,South
+org-014,University of Eastmoor (synthetic),University,university-of-eastmoor.example.org,Central
+org-015,Fernhaven Community Health Trust (synthetic),Hospital,fernhaven-community-health-trust.example.org,East
+org-016,Elmmoor Literacy Foundation (synthetic),NGO,elmmoor-literacy-foundation.example.org,North
+org-017,Ferncombe Literacy Foundation (synthetic),NGO,ferncombe-literacy-foundation.example.org,North
+org-018,Eastwick Sixth Form College (synthetic),School,eastwick-sixth-form-college.example.org,Central
+org-019,Southbridge Children's Hospital (synthetic),Hospital,southbridge-childrens-hospital.example.org,Central
+org-020,University of Brightbridge (synthetic),University,university-of-brightbridge.example.org,North
+org-021,Thornwick Literacy Foundation (synthetic),NGO,thornwick-literacy-foundation.example.org,South
+org-022,Kestrelhaven County Council (synthetic),Council,kestrelhaven-county-council.example.org,North
+org-023,Northholt Academy (synthetic),School,northholt-academy.example.org,Central
+org-024,Brackenfold High School (synthetic),School,brackenfold-high-school.example.org,Central
+org-025,Merrowvale Institute of Technology (synthetic),University,merrowvale-institute-of-technology.example.org,Central
+org-026,Elmhaven Primary School (synthetic),School,elmhaven-primary-school.example.org,Central
+org-027,Thornfold High School (synthetic),School,thornfold-high-school.example.org,West
+org-028,Kestrelmoor Institute of Technology (synthetic),University,kestrelmoor-institute-of-technology.example.org,East
+org-029,Fernbrook High School (synthetic),School,fernbrook-high-school.example.org,Central
+org-030,University of Ashvale (synthetic),University,university-of-ashvale.example.org,West
+org-031,Brightcombe County Council (synthetic),Council,brightcombe-county-council.example.org,South
+org-032,Ashbrook Borough Council (synthetic),Council,ashbrook-borough-council.example.org,East
+org-033,Southcombe Primary School (synthetic),School,southcombe-primary-school.example.org,West
+org-034,Northcombe Sixth Form College (synthetic),School,northcombe-sixth-form-college.example.org,Central
+org-035,Larkholt Literacy Foundation (synthetic),NGO,larkholt-literacy-foundation.example.org,East
+org-036,Brackenwick Primary School (synthetic),School,brackenwick-primary-school.example.org,South
+org-037,Elmcombe Children's Hospital (synthetic),Hospital,elmcombe-childrens-hospital.example.org,Central
+org-038,Brackenbridge High School (synthetic),School,brackenbridge-high-school.example.org,South
+org-039,Fernbridge Community Health Trust (synthetic),Hospital,fernbridge-community-health-trust.example.org,East
+org-040,Ashhaven District Council (synthetic),Council,ashhaven-district-council.example.org,Central
+org-041,Eastbridge Sixth Form College (synthetic),School,eastbridge-sixth-form-college.example.org,North
+org-042,Elmbrook Community Health Trust (synthetic),Hospital,elmbrook-community-health-trust.example.org,West
+org-043,Rowanbridge Primary School (synthetic),School,rowanbridge-primary-school.example.org,Central
+org-044,Larkmoor Borough Council (synthetic),Council,larkmoor-borough-council.example.org,North
+org-045,University of Larkhaven (synthetic),University,university-of-larkhaven.example.org,West
+org-046,Stoneholt Children's Hospital (synthetic),Hospital,stoneholt-childrens-hospital.example.org,South
+org-047,Northhaven County Council (synthetic),Council,northhaven-county-council.example.org,Central
+org-048,Northvale Sixth Form College (synthetic),School,northvale-sixth-form-college.example.org,West
+org-049,Eastholt District Council (synthetic),Council,eastholt-district-council.example.org,South
+org-050,Kestrelcombe Academy (synthetic),School,kestrelcombe-academy.example.org,North
+org-051,Eastmere Academy (synthetic),School,eastmere-academy.example.org,West
+org-052,Brackenvale Institute of Technology (synthetic),University,brackenvale-institute-of-technology.example.org,East
+org-053,Westmere Children's Hospital (synthetic),Hospital,westmere-childrens-hospital.example.org,North
+org-054,Merrowwick High School (synthetic),School,merrowwick-high-school.example.org,South
+org-055,Westhaven Community Learning Trust (synthetic),NGO,westhaven-community-learning-trust.example.org,West
+org-056,Thornhaven Community Learning Trust (synthetic),NGO,thornhaven-community-learning-trust.example.org,Central
+org-057,Hazelwick Literacy Foundation (synthetic),NGO,hazelwick-literacy-foundation.example.org,West
+org-058,Wrenholt Academy (synthetic),School,wrenholt-academy.example.org,Central
+org-059,Brightmoor Institute of Technology (synthetic),University,WWW.BRIGHTMOOR-INSTITUTE-OF-TECHNOLOGY.EXAMPLE.ORG,East
+org-060,Stonefold Community Health Trust (synthetic),Hospital,stonefold-community-health-trust.example.org,West
+org-061,Westcombe County Council (synthetic),Council,westcombe-county-council.example.org,East
+org-062,University of Brackenhaven (synthetic),University,university-of-brackenhaven.example.org,Central
+org-063,Brightwick Community Health Trust (synthetic),Hospital,brightwick-community-health-trust.example.org,Central
+org-064,Quillfold Primary School (synthetic),School,https://www.quillfold-primary-school.example.org/,East
+org-065,Wrenmoor Institute of Technology (synthetic),University,wrenmoor-institute-of-technology.example.org,South
+org-066,Elmmere Academy   (synthetic) ,School,elmmere-academy.example.org,North
+org-067,Oakbrook Primary School (synthetic),School,oakbrook-primary-school.example.org,North
+org-068,Oakcombe District Council (synthetic),Council,oakcombe-district-council.example.org,North
+org-069,Thornmoor Academy (synthetic),School,thornmoor-academy.example.org,West
+org-070,Kestrelfold Children's Hospital (synthetic),Hospital,kestrelfold-childrens-hospital.example.org,Central
+org-071,Westfold Community Learning Trust (synthetic),NGO,westfold-community-learning-trust.example.org,Central
+org-072,Ashbridge Youth Network (synthetic),NGO,ashbridge-youth-network.example.org,North
+org-073,Wrenwick Borough Council (synthetic),Council,wrenwick-borough-council.example.org,Central
+org-074,Hazelmoor Borough Council (synthetic),Council,hazelmoor-borough-council.example.org,South
+org-075,Larkmere University (synthetic),University,larkmere-university.example.org,North
+org-076,Quillbridge High School (synthetic),School,quillbridge-high-school.example.org,North
+org-077,Stonehaven Community Learning Trust (synthetic),NGO,stonehaven-community-learning-trust.example.org,West
+org-078,Eastcombe High School (synthetic),School,eastcombe-high-school.example.org,North
+org-079,Stonevale Sixth Form College (synthetic),School,stonevale-sixth-form-college.example.org,North
+org-080,University of Quillwick (synthetic),University,university-of-quillwick.example.org,South
+org-081,Ashfold Community Learning Trust (synthetic),NGO,ashfold-community-learning-trust.example.org,West
+org-082,Wrencombe Primary School (synthetic),School,wrencombe-primary-school.example.org,West
+org-083,Oakwick General Hospital (synthetic),Hospital,oakwick-general-hospital.example.org,West
+org-084,Quillholt Community Learning Trust (synthetic),NGO,quillholt-community-learning-trust.example.org,East
+org-085,Kestrelbridge Borough Council (synthetic),Council,kestrelbridge-borough-council.example.org,North
+org-086,Brighthaven High School (synthetic),School,brighthaven-high-school.example.org,Central
+org-087,Southmere Community Learning Trust (synthetic),NGO,southmere-community-learning-trust.example.org,East
+org-088,Stonebrook University (synthetic),University,stonebrook-university.example.org,Central
+org-089,Northwick Community Learning Trust (synthetic),NGO,northwick-community-learning-trust.example.org,South
+org-090,Kestrelmere District Council (synthetic),Council,kestrelmere-district-council.example.org,Central
+org-091,Amberholt General Hospital (synthetic),Hospital,amberholt-general-hospital.example.org,South
+org-092,Quillcombe Community Health Trust (synthetic),Hospital,quillcombe-community-health-trust.example.org,West
+org-093,  University  of Brackencombe (synthetic),University,university-of-brackencombe.example.org,South
+org-094,Brightvale Youth Network (synthetic),NGO,brightvale-youth-network.example.org,Central
+org-095,Univ. of Eastmoor (synthetic),University,www.university-of-eastmoor.example.org,Central
+org-096,The Elmholt Academy (synthetic),School,elmholt-academy-trust.example.org,East
+org-097,Southbrook Children's Hospital – Estates Team (synthetic),Hospital,SOUTHBROOK-CHILDRENS-HOSPITAL.EXAMPLE.ORG,South
+org-098,Westbridge Literacy Foundation (synthetic),NGO,,Central
+org-099,ASHHAVEN DISTRICT council  (synthetic),Council,https://ashhaven-district-council.example.org/contact-us,Central
+org-100,Stonecombe Community Learning Trust (synthetic),NGO,stonecombe-community-learning-trust.example.org,West

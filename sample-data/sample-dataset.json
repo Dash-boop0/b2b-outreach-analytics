@@ -1,0 +1,6219 @@
+{
+  "version": 1,
+  "meta": {
+    "synthetic": true,
+    "source": "sample",
+    "demoToday": "2026-10-16",
+    "seed": 20261016,
+    "label": "SYNTHETIC sample data — 100 fictional institutional prospects. Not real organisations, people or results."
+  },
+  "settings": {
+    "today": "2026-10-16"
+  },
+  "organisations": [
+    {
+      "id": "org-001",
+      "name": "Westbridge Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "westbridge-literacy-foundation.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-002",
+      "name": "Westholt Primary School (synthetic)",
+      "type": "School",
+      "domain": "westholt-primary-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-003",
+      "name": "Amberfold County Council (synthetic)",
+      "type": "Council",
+      "domain": "amberfold-county-council.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-004",
+      "name": "Larkwick Primary School (synthetic)",
+      "type": "School",
+      "domain": "larkwick-primary-school.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-005",
+      "name": "Elmholt Academy (synthetic)",
+      "type": "School",
+      "domain": "elmholt-academy.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-006",
+      "name": "Stonemoor Academy (synthetic)",
+      "type": "School",
+      "domain": "stonemoor-academy.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-007",
+      "name": "Hazelmere Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "hazelmere-sixth-form-college.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-008",
+      "name": "Amberbridge High School (synthetic)",
+      "type": "School",
+      "domain": "amberbridge-high-school.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-009",
+      "name": "Ambervale Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "ambervale-sixth-form-college.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-010",
+      "name": "Westbrook Academy (synthetic)",
+      "type": "School",
+      "domain": "westbrook-academy.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-011",
+      "name": "Stonecombe Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "stonecombe-community-learning-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-012",
+      "name": "Larkvale Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "larkvale-community-learning-trust.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-013",
+      "name": "Southbrook Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "southbrook-childrens-hospital.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-014",
+      "name": "University of Eastmoor (synthetic)",
+      "type": "University",
+      "domain": "university-of-eastmoor.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-015",
+      "name": "Fernhaven Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "fernhaven-community-health-trust.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-016",
+      "name": "Elmmoor Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "elmmoor-literacy-foundation.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-017",
+      "name": "Ferncombe Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "ferncombe-literacy-foundation.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-018",
+      "name": "Eastwick Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "eastwick-sixth-form-college.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-019",
+      "name": "Southbridge Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "southbridge-childrens-hospital.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-020",
+      "name": "University of Brightbridge (synthetic)",
+      "type": "University",
+      "domain": "university-of-brightbridge.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-021",
+      "name": "Thornwick Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "thornwick-literacy-foundation.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-022",
+      "name": "Kestrelhaven County Council (synthetic)",
+      "type": "Council",
+      "domain": "kestrelhaven-county-council.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-023",
+      "name": "Northholt Academy (synthetic)",
+      "type": "School",
+      "domain": "northholt-academy.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-024",
+      "name": "Brackenfold High School (synthetic)",
+      "type": "School",
+      "domain": "brackenfold-high-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-025",
+      "name": "Merrowvale Institute of Technology (synthetic)",
+      "type": "University",
+      "domain": "merrowvale-institute-of-technology.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-026",
+      "name": "Elmhaven Primary School (synthetic)",
+      "type": "School",
+      "domain": "elmhaven-primary-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-027",
+      "name": "Thornfold High School (synthetic)",
+      "type": "School",
+      "domain": "thornfold-high-school.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-028",
+      "name": "Kestrelmoor Institute of Technology (synthetic)",
+      "type": "University",
+      "domain": "kestrelmoor-institute-of-technology.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-029",
+      "name": "Fernbrook High School (synthetic)",
+      "type": "School",
+      "domain": "fernbrook-high-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-030",
+      "name": "University of Ashvale (synthetic)",
+      "type": "University",
+      "domain": "university-of-ashvale.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-031",
+      "name": "Brightcombe County Council (synthetic)",
+      "type": "Council",
+      "domain": "brightcombe-county-council.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-032",
+      "name": "Ashbrook Borough Council (synthetic)",
+      "type": "Council",
+      "domain": "ashbrook-borough-council.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-033",
+      "name": "Southcombe Primary School (synthetic)",
+      "type": "School",
+      "domain": "southcombe-primary-school.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-034",
+      "name": "Northcombe Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "northcombe-sixth-form-college.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-035",
+      "name": "Larkholt Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "larkholt-literacy-foundation.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-036",
+      "name": "Brackenwick Primary School (synthetic)",
+      "type": "School",
+      "domain": "brackenwick-primary-school.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-037",
+      "name": "Elmcombe Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "elmcombe-childrens-hospital.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-038",
+      "name": "Brackenbridge High School (synthetic)",
+      "type": "School",
+      "domain": "brackenbridge-high-school.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-039",
+      "name": "Fernbridge Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "fernbridge-community-health-trust.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-040",
+      "name": "Ashhaven District Council (synthetic)",
+      "type": "Council",
+      "domain": "ashhaven-district-council.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-041",
+      "name": "Eastbridge Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "eastbridge-sixth-form-college.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-042",
+      "name": "Elmbrook Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "elmbrook-community-health-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-043",
+      "name": "Rowanbridge Primary School (synthetic)",
+      "type": "School",
+      "domain": "rowanbridge-primary-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-044",
+      "name": "Larkmoor Borough Council (synthetic)",
+      "type": "Council",
+      "domain": "larkmoor-borough-council.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-045",
+      "name": "University of Larkhaven (synthetic)",
+      "type": "University",
+      "domain": "university-of-larkhaven.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-046",
+      "name": "Stoneholt Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "stoneholt-childrens-hospital.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-047",
+      "name": "Northhaven County Council (synthetic)",
+      "type": "Council",
+      "domain": "northhaven-county-council.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-048",
+      "name": "Northvale Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "northvale-sixth-form-college.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-049",
+      "name": "Eastholt District Council (synthetic)",
+      "type": "Council",
+      "domain": "eastholt-district-council.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-050",
+      "name": "Kestrelcombe Academy (synthetic)",
+      "type": "School",
+      "domain": "kestrelcombe-academy.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-051",
+      "name": "Eastmere Academy (synthetic)",
+      "type": "School",
+      "domain": "eastmere-academy.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-052",
+      "name": "Brackenvale Institute of Technology (synthetic)",
+      "type": "University",
+      "domain": "brackenvale-institute-of-technology.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-053",
+      "name": "Westmere Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "westmere-childrens-hospital.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-054",
+      "name": "Merrowwick High School (synthetic)",
+      "type": "School",
+      "domain": "merrowwick-high-school.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-055",
+      "name": "Westhaven Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "westhaven-community-learning-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-056",
+      "name": "Thornhaven Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "thornhaven-community-learning-trust.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-057",
+      "name": "Hazelwick Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "hazelwick-literacy-foundation.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-058",
+      "name": "Wrenholt Academy (synthetic)",
+      "type": "School",
+      "domain": "wrenholt-academy.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-059",
+      "name": "Brightmoor Institute of Technology (synthetic)",
+      "type": "University",
+      "domain": "WWW.BRIGHTMOOR-INSTITUTE-OF-TECHNOLOGY.EXAMPLE.ORG",
+      "region": "East"
+    },
+    {
+      "id": "org-060",
+      "name": "Stonefold Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "stonefold-community-health-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-061",
+      "name": "Westcombe County Council (synthetic)",
+      "type": "Council",
+      "domain": "westcombe-county-council.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-062",
+      "name": "University of Brackenhaven (synthetic)",
+      "type": "University",
+      "domain": "university-of-brackenhaven.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-063",
+      "name": "Brightwick Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "brightwick-community-health-trust.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-064",
+      "name": "Quillfold Primary School (synthetic)",
+      "type": "School",
+      "domain": "https://www.quillfold-primary-school.example.org/",
+      "region": "East"
+    },
+    {
+      "id": "org-065",
+      "name": "Wrenmoor Institute of Technology (synthetic)",
+      "type": "University",
+      "domain": "wrenmoor-institute-of-technology.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-066",
+      "name": "Elmmere Academy   (synthetic) ",
+      "type": "School",
+      "domain": "elmmere-academy.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-067",
+      "name": "Oakbrook Primary School (synthetic)",
+      "type": "School",
+      "domain": "oakbrook-primary-school.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-068",
+      "name": "Oakcombe District Council (synthetic)",
+      "type": "Council",
+      "domain": "oakcombe-district-council.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-069",
+      "name": "Thornmoor Academy (synthetic)",
+      "type": "School",
+      "domain": "thornmoor-academy.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-070",
+      "name": "Kestrelfold Children's Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "kestrelfold-childrens-hospital.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-071",
+      "name": "Westfold Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "westfold-community-learning-trust.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-072",
+      "name": "Ashbridge Youth Network (synthetic)",
+      "type": "NGO",
+      "domain": "ashbridge-youth-network.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-073",
+      "name": "Wrenwick Borough Council (synthetic)",
+      "type": "Council",
+      "domain": "wrenwick-borough-council.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-074",
+      "name": "Hazelmoor Borough Council (synthetic)",
+      "type": "Council",
+      "domain": "hazelmoor-borough-council.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-075",
+      "name": "Larkmere University (synthetic)",
+      "type": "University",
+      "domain": "larkmere-university.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-076",
+      "name": "Quillbridge High School (synthetic)",
+      "type": "School",
+      "domain": "quillbridge-high-school.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-077",
+      "name": "Stonehaven Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "stonehaven-community-learning-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-078",
+      "name": "Eastcombe High School (synthetic)",
+      "type": "School",
+      "domain": "eastcombe-high-school.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-079",
+      "name": "Stonevale Sixth Form College (synthetic)",
+      "type": "School",
+      "domain": "stonevale-sixth-form-college.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-080",
+      "name": "University of Quillwick (synthetic)",
+      "type": "University",
+      "domain": "university-of-quillwick.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-081",
+      "name": "Ashfold Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "ashfold-community-learning-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-082",
+      "name": "Wrencombe Primary School (synthetic)",
+      "type": "School",
+      "domain": "wrencombe-primary-school.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-083",
+      "name": "Oakwick General Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "oakwick-general-hospital.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-084",
+      "name": "Quillholt Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "quillholt-community-learning-trust.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-085",
+      "name": "Kestrelbridge Borough Council (synthetic)",
+      "type": "Council",
+      "domain": "kestrelbridge-borough-council.example.org",
+      "region": "North"
+    },
+    {
+      "id": "org-086",
+      "name": "Brighthaven High School (synthetic)",
+      "type": "School",
+      "domain": "brighthaven-high-school.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-087",
+      "name": "Southmere Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "southmere-community-learning-trust.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-088",
+      "name": "Stonebrook University (synthetic)",
+      "type": "University",
+      "domain": "stonebrook-university.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-089",
+      "name": "Northwick Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "northwick-community-learning-trust.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-090",
+      "name": "Kestrelmere District Council (synthetic)",
+      "type": "Council",
+      "domain": "kestrelmere-district-council.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-091",
+      "name": "Amberholt General Hospital (synthetic)",
+      "type": "Hospital",
+      "domain": "amberholt-general-hospital.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-092",
+      "name": "Quillcombe Community Health Trust (synthetic)",
+      "type": "Hospital",
+      "domain": "quillcombe-community-health-trust.example.org",
+      "region": "West"
+    },
+    {
+      "id": "org-093",
+      "name": "  University  of Brackencombe (synthetic)",
+      "type": "University",
+      "domain": "university-of-brackencombe.example.org",
+      "region": "South"
+    },
+    {
+      "id": "org-094",
+      "name": "Brightvale Youth Network (synthetic)",
+      "type": "NGO",
+      "domain": "brightvale-youth-network.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-095",
+      "name": "Univ. of Eastmoor (synthetic)",
+      "type": "University",
+      "domain": "www.university-of-eastmoor.example.org",
+      "region": "Central"
+    },
+    {
+      "id": "org-096",
+      "name": "The Elmholt Academy (synthetic)",
+      "type": "School",
+      "domain": "elmholt-academy-trust.example.org",
+      "region": "East"
+    },
+    {
+      "id": "org-097",
+      "name": "Southbrook Children's Hospital – Estates Team (synthetic)",
+      "type": "Hospital",
+      "domain": "SOUTHBROOK-CHILDRENS-HOSPITAL.EXAMPLE.ORG",
+      "region": "South"
+    },
+    {
+      "id": "org-098",
+      "name": "Westbridge Literacy Foundation (synthetic)",
+      "type": "NGO",
+      "domain": "",
+      "region": "Central"
+    },
+    {
+      "id": "org-099",
+      "name": "ASHHAVEN DISTRICT council  (synthetic)",
+      "type": "Council",
+      "domain": "https://ashhaven-district-council.example.org/contact-us",
+      "region": "Central"
+    },
+    {
+      "id": "org-100",
+      "name": "Stonecombe Community Learning Trust (synthetic)",
+      "type": "NGO",
+      "domain": "stonecombe-community-learning-trust.example.org",
+      "region": "West"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "con-001",
+      "orgId": "org-001",
+      "firstName": "Kofi",
+      "lastName": "Tinderbox",
+      "title": "Programme Director",
+      "email": "kofi.tinderbox@westbridge-literacy-foundation.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-002",
+      "orgId": "org-002",
+      "firstName": "Mei",
+      "lastName": "Moonfield",
+      "title": "Headteacher",
+      "email": "mei.moonfield@westholt-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-003",
+      "orgId": "org-002",
+      "firstName": "Rowan",
+      "lastName": "Ambermoor",
+      "title": "IT Coordinator",
+      "email": "rowan.ambermoor@westholt-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-004",
+      "orgId": "org-003",
+      "firstName": "Morgan",
+      "lastName": "Larkspur",
+      "title": "Education Officer",
+      "email": " Morgan.larkspur@amberfold-county-council.example.org ",
+      "phone": ""
+    },
+    {
+      "id": "con-005",
+      "orgId": "org-003",
+      "firstName": "Jamie",
+      "lastName": "Tinderbox",
+      "title": "Procurement Officer",
+      "email": "jamie.tinderbox@amberfold-county-council.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-006",
+      "orgId": "org-004",
+      "firstName": "Rowan",
+      "lastName": "Thistlewood",
+      "title": "IT Coordinator",
+      "email": "rowan.thistlewood@larkwick-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-007",
+      "orgId": "org-005",
+      "firstName": "Skyler",
+      "lastName": "Inkwell",
+      "title": "IT Coordinator",
+      "email": "skyler.inkwell@elmholt-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-008",
+      "orgId": "org-005",
+      "firstName": "Quinn",
+      "lastName": "Pebbleworth",
+      "title": "Deputy Head",
+      "email": "quinn.pebbleworth@elmholt-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-009",
+      "orgId": "org-006",
+      "firstName": "Sasha",
+      "lastName": "Cloudsley",
+      "title": "Deputy Head",
+      "email": " Sasha.cloudsley@stonemoor-academy.example.org ",
+      "phone": "+44 7700 900875"
+    },
+    {
+      "id": "con-010",
+      "orgId": "org-007",
+      "firstName": "Jamie",
+      "lastName": "Puddleford",
+      "title": "Deputy Head",
+      "email": "jamie.puddleford@hazelmere-sixth-form-college.example.org",
+      "phone": "+44 7700 900429"
+    },
+    {
+      "id": "con-011",
+      "orgId": "org-008",
+      "firstName": "Mei",
+      "lastName": "Silverbirch",
+      "title": "IT Coordinator",
+      "email": "mei silverbirch@amberbridge-high-school.example.org",
+      "phone": "+44 7700 900575"
+    },
+    {
+      "id": "con-012",
+      "orgId": "org-009",
+      "firstName": "Morgan",
+      "lastName": "Brightwater",
+      "title": "IT Coordinator",
+      "email": "morgan.brightwater@ambervale-sixth-form-college.example.org",
+      "phone": "+44 7700 900173"
+    },
+    {
+      "id": "con-013",
+      "orgId": "org-010",
+      "firstName": "Lena",
+      "lastName": "Thistlewood",
+      "title": "Deputy Head",
+      "email": "lena.thistlewood@westbrook-academy.example.org",
+      "phone": "+44 7700 900131"
+    },
+    {
+      "id": "con-014",
+      "orgId": "org-010",
+      "firstName": "Skyler",
+      "lastName": "Moonfield",
+      "title": "Headteacher",
+      "email": "skyler.moonfield@westbrook-academy.example.org",
+      "phone": "+44 7700 900272"
+    },
+    {
+      "id": "con-015",
+      "orgId": "org-011",
+      "firstName": "Tatum",
+      "lastName": "Silverbirch",
+      "title": "Programme Director",
+      "email": "tatum.silverbirch@stonecombe-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-016",
+      "orgId": "org-012",
+      "firstName": "Skyler",
+      "lastName": "Oakhollow",
+      "title": "Partnerships Manager",
+      "email": "skyler.oakhollow@larkvale-community-learning-trust.example.org",
+      "phone": "+44 7700 900423"
+    },
+    {
+      "id": "con-017",
+      "orgId": "org-013",
+      "firstName": "Skyler",
+      "lastName": "Pebbleworth",
+      "title": "Head of Procurement",
+      "email": "skyler.pebbleworth@southbrook-childrens-hospital.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-018",
+      "orgId": "org-014",
+      "firstName": "Casey",
+      "lastName": "Larkspur",
+      "title": "Head of Partnerships",
+      "email": "casey.larkspur@university-of-eastmoor.example.org",
+      "phone": "+44 7700 900958"
+    },
+    {
+      "id": "con-019",
+      "orgId": "org-015",
+      "firstName": "Blake",
+      "lastName": "Tinderbox",
+      "title": "Head of Procurement",
+      "email": "blake.tinderbox@fernhaven-community-health-trust.example.org",
+      "phone": "+44 7700 900427"
+    },
+    {
+      "id": "con-020",
+      "orgId": "org-016",
+      "firstName": "Riley",
+      "lastName": "Larkspur",
+      "title": "Programme Director",
+      "email": "riley.larkspur@elmmoor-literacy-foundation.example.org",
+      "phone": "+44 7700 900976"
+    },
+    {
+      "id": "con-021",
+      "orgId": "org-017",
+      "firstName": "Logan",
+      "lastName": "Copperkettle",
+      "title": "Partnerships Manager",
+      "email": "logan.copperkettle@ferncombe-literacy-foundation.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-022",
+      "orgId": "org-018",
+      "firstName": "Mei",
+      "lastName": "Larkspur",
+      "title": "Deputy Head",
+      "email": "",
+      "phone": "+44 7700 900242"
+    },
+    {
+      "id": "con-023",
+      "orgId": "org-019",
+      "firstName": "Harper",
+      "lastName": "Quillfeather",
+      "title": "Training Lead",
+      "email": "harper.quillfeather@southbridge-childrens-hospital.example.org",
+      "phone": "+44 7700 900992"
+    },
+    {
+      "id": "con-024",
+      "orgId": "org-019",
+      "firstName": "Kendall",
+      "lastName": "Fernhollow",
+      "title": "Head of Procurement",
+      "email": "kendall.fernhollow@southbridge-childrens-hospital.example.org",
+      "phone": "+44 7700 900213"
+    },
+    {
+      "id": "con-025",
+      "orgId": "org-020",
+      "firstName": "Emerson",
+      "lastName": "Marrowgate",
+      "title": "Head of Partnerships",
+      "email": "emerson.marrowgate@university-of-brightbridge.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-026",
+      "orgId": "org-021",
+      "firstName": "Riley",
+      "lastName": "Dapplegate",
+      "title": "Operations Lead",
+      "email": "riley.dapplegate@thornwick-literacy-foundation.example.org",
+      "phone": "+44 7700 900396"
+    },
+    {
+      "id": "con-027",
+      "orgId": "org-021",
+      "firstName": "Kofi",
+      "lastName": "Moonfield",
+      "title": "Operations Lead",
+      "email": "kofi.moonfield@thornwick-literacy-foundation.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-028",
+      "orgId": "org-022",
+      "firstName": "Alex",
+      "lastName": "Oakhollow",
+      "title": "Digital Services Lead",
+      "email": "alex.oakhollow@kestrelhaven-county-council.example.org",
+      "phone": "+44 7700 900390"
+    },
+    {
+      "id": "con-029",
+      "orgId": "org-023",
+      "firstName": "Kendall",
+      "lastName": "Mistlebrook",
+      "title": "Deputy Head",
+      "email": "kendall.mistlebrook@northholt-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-030",
+      "orgId": "org-023",
+      "firstName": "Arjun",
+      "lastName": "Cloudsley",
+      "title": "Business Manager",
+      "email": "arjun.cloudsley@northholt-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-031",
+      "orgId": "org-024",
+      "firstName": "Alex",
+      "lastName": "Silverbirch",
+      "title": "Deputy Head",
+      "email": "alex.silverbirch@brackenfold-high-school.example.org",
+      "phone": "+44 7700 900426"
+    },
+    {
+      "id": "con-032",
+      "orgId": "org-025",
+      "firstName": "Kofi",
+      "lastName": "Copperkettle",
+      "title": "Head of Digital Learning",
+      "email": "kofi.copperkettle@merrowvale-institute-of-technology.example.org",
+      "phone": "+44 7700 900003"
+    },
+    {
+      "id": "con-033",
+      "orgId": "org-025",
+      "firstName": "Tatum",
+      "lastName": "Thistlewood",
+      "title": "Procurement Lead",
+      "email": "tatum.thistlewood@merrowvale-institute-of-technology.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-034",
+      "orgId": "org-026",
+      "firstName": "Morgan",
+      "lastName": "Marrowgate",
+      "title": "IT Coordinator",
+      "email": "",
+      "phone": "+44 7700 900428"
+    },
+    {
+      "id": "con-035",
+      "orgId": "org-027",
+      "firstName": "Emerson",
+      "lastName": "Moonfield",
+      "title": "IT Coordinator",
+      "email": "emerson.moonfield@thornfold-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-036",
+      "orgId": "org-028",
+      "firstName": "Kendall",
+      "lastName": "Cloudsley",
+      "title": "Procurement Lead",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "con-037",
+      "orgId": "org-028",
+      "firstName": "Logan",
+      "lastName": "Tinderbox",
+      "title": "Director of Admissions",
+      "email": "logan.tinderbox.kestrelmoor-institute-of-technology.example.org",
+      "phone": "+44 7700 900784"
+    },
+    {
+      "id": "con-038",
+      "orgId": "org-029",
+      "firstName": "Skyler",
+      "lastName": "Ambermoor",
+      "title": "Business Manager",
+      "email": "skyler.ambermoor@@fernbrook-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-039",
+      "orgId": "org-030",
+      "firstName": "Blake",
+      "lastName": "Quillfeather",
+      "title": "Head of Partnerships",
+      "email": "blake.quillfeather@university-of-ashvale.example.org",
+      "phone": "+44 7700 900952"
+    },
+    {
+      "id": "con-040",
+      "orgId": "org-031",
+      "firstName": "Mei",
+      "lastName": "Copperkettle",
+      "title": "Education Officer",
+      "email": "mei.copperkettle@brightcombe-county-council.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-041",
+      "orgId": "org-032",
+      "firstName": "Parker",
+      "lastName": "Larkspur",
+      "title": "Digital Services Lead",
+      "email": "parker.larkspur@ashbrook-borough-council.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-042",
+      "orgId": "org-033",
+      "firstName": "Ines",
+      "lastName": "Quillfeather",
+      "title": "IT Coordinator",
+      "email": "ines.quillfeather@southcombe-primary-school.example.org",
+      "phone": "+44 7700 900990"
+    },
+    {
+      "id": "con-043",
+      "orgId": "org-034",
+      "firstName": "Emerson",
+      "lastName": "Puddleford",
+      "title": "Headteacher",
+      "email": "emerson.puddleford@northcombe-sixth-form-college.example.org",
+      "phone": "+44 7700 900905"
+    },
+    {
+      "id": "con-044",
+      "orgId": "org-035",
+      "firstName": "Riley",
+      "lastName": "Mistlebrook",
+      "title": "Operations Lead",
+      "email": "riley.mistlebrook@larkholt-literacy-foundation.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-045",
+      "orgId": "org-036",
+      "firstName": "Rowan",
+      "lastName": "Quillfeather",
+      "title": "Business Manager",
+      "email": "rowan.quillfeather@brackenwick-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-046",
+      "orgId": "org-037",
+      "firstName": "Kendall",
+      "lastName": "Oakhollow",
+      "title": "Operations Manager",
+      "email": "kendall.oakhollow@elmcombe-childrens-hospital.example.org",
+      "phone": "+44 7700 900386"
+    },
+    {
+      "id": "con-047",
+      "orgId": "org-038",
+      "firstName": "Noor",
+      "lastName": "Silverbirch",
+      "title": "IT Coordinator",
+      "email": "noor.silverbirch@brackenbridge-high-school.example.org",
+      "phone": "+44 7700 900692"
+    },
+    {
+      "id": "con-048",
+      "orgId": "org-038",
+      "firstName": "Robin",
+      "lastName": "Pebbleworth",
+      "title": "Business Manager",
+      "email": "robin.pebbleworth@brackenbridge-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-049",
+      "orgId": "org-039",
+      "firstName": "Drew",
+      "lastName": "Ambermoor",
+      "title": "Operations Manager",
+      "email": "drew.ambermoor@fernbridge-community-health-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-050",
+      "orgId": "org-039",
+      "firstName": "Harper",
+      "lastName": "Moonfield",
+      "title": "Operations Manager",
+      "email": "harper.moonfield@fernbridge-community-health-trust.example.org",
+      "phone": "+44 7700 900122"
+    },
+    {
+      "id": "con-051",
+      "orgId": "org-040",
+      "firstName": "Rowan",
+      "lastName": "Marrowgate",
+      "title": "Procurement Officer",
+      "email": "rowan.marrowgate@ashhaven-district-council.example.org",
+      "phone": "+44 7700 900137"
+    },
+    {
+      "id": "con-052",
+      "orgId": "org-041",
+      "firstName": "Lena",
+      "lastName": "Ambermoor",
+      "title": "Headteacher",
+      "email": "lena.ambermoor@eastbridge-sixth-form-college.example.org",
+      "phone": "+44 7700 900252"
+    },
+    {
+      "id": "con-053",
+      "orgId": "org-042",
+      "firstName": "Jamie",
+      "lastName": "Pebbleworth",
+      "title": "Head of Procurement",
+      "email": "jamie.pebbleworth@elmbrook-community-health-trust.example.org",
+      "phone": "+44 7700 900551"
+    },
+    {
+      "id": "con-054",
+      "orgId": "org-043",
+      "firstName": "Reese",
+      "lastName": "Dapplegate",
+      "title": "IT Coordinator",
+      "email": "reese.dapplegate@rowanbridge-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-055",
+      "orgId": "org-043",
+      "firstName": "Avery",
+      "lastName": "Thistlewood",
+      "title": "Deputy Head",
+      "email": "avery.thistlewood@rowanbridge-primary-school.example.org",
+      "phone": "+44 7700 900009"
+    },
+    {
+      "id": "con-056",
+      "orgId": "org-044",
+      "firstName": "Kofi",
+      "lastName": "Bramblewick",
+      "title": "Education Officer",
+      "email": " Kofi.bramblewick@larkmoor-borough-council.example.org ",
+      "phone": "+44 7700 900899"
+    },
+    {
+      "id": "con-057",
+      "orgId": "org-045",
+      "firstName": "Rowan",
+      "lastName": "Cloudsley",
+      "title": "Head of Partnerships",
+      "email": "rowan.cloudsley@university-of-larkhaven.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-058",
+      "orgId": "org-046",
+      "firstName": "Robin",
+      "lastName": "Copperkettle",
+      "title": "Training Lead",
+      "email": "robin.copperkettle@stoneholt-childrens-hospital.example.org",
+      "phone": "+44 7700 900260"
+    },
+    {
+      "id": "con-059",
+      "orgId": "org-047",
+      "firstName": "Riley",
+      "lastName": "Moonfield",
+      "title": "Digital Services Lead",
+      "email": "riley.moonfield@northhaven-county-council.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-060",
+      "orgId": "org-048",
+      "firstName": "Blake",
+      "lastName": "Willowmere",
+      "title": "IT Coordinator",
+      "email": "blake.willowmere@northvale-sixth-form-college.example.org",
+      "phone": "+44 7700 900878"
+    },
+    {
+      "id": "con-061",
+      "orgId": "org-049",
+      "firstName": "Ines",
+      "lastName": "Penwhistle",
+      "title": "Digital Services Lead",
+      "email": "ines.penwhistle@eastholt-district-council.example.org",
+      "phone": "+44 7700 900413"
+    },
+    {
+      "id": "con-062",
+      "orgId": "org-049",
+      "firstName": "Drew",
+      "lastName": "Mistlebrook",
+      "title": "Procurement Officer",
+      "email": "drew.mistlebrook@eastholt-district-council.example.org",
+      "phone": "+44 7700 900597"
+    },
+    {
+      "id": "con-063",
+      "orgId": "org-050",
+      "firstName": "Riley",
+      "lastName": "Fernhollow",
+      "title": "Headteacher",
+      "email": "riley.fernhollow@kestrelcombe-academy.example.org",
+      "phone": "+44 7700 900104"
+    },
+    {
+      "id": "con-064",
+      "orgId": "org-051",
+      "firstName": "Reese",
+      "lastName": "Larkspur",
+      "title": "Headteacher",
+      "email": "reese.larkspur@eastmere-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-065",
+      "orgId": "org-052",
+      "firstName": "Parker",
+      "lastName": "Penwhistle",
+      "title": "Head of Digital Learning",
+      "email": "parker.penwhistle@brackenvale-institute-of-technology.example.org",
+      "phone": "+44 7700 900043"
+    },
+    {
+      "id": "con-066",
+      "orgId": "org-053",
+      "firstName": "Emerson",
+      "lastName": "Tinderbox",
+      "title": "Training Lead",
+      "email": "emerson.tinderbox@westmere-childrens-hospital.example.org",
+      "phone": "+44 7700 900080"
+    },
+    {
+      "id": "con-067",
+      "orgId": "org-054",
+      "firstName": "Alex",
+      "lastName": "Pebbleworth",
+      "title": "Headteacher",
+      "email": " Alex.pebbleworth@merrowwick-high-school.example.org ",
+      "phone": "+44 7700 900250"
+    },
+    {
+      "id": "con-068",
+      "orgId": "org-055",
+      "firstName": "Avery",
+      "lastName": "Ambermoor",
+      "title": "Partnerships Manager",
+      "email": "avery.ambermoor@westhaven-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-069",
+      "orgId": "org-055",
+      "firstName": "Harper",
+      "lastName": "Dapplegate",
+      "title": "Programme Director",
+      "email": "harper.dapplegate@westhaven-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-070",
+      "orgId": "org-056",
+      "firstName": "Skyler",
+      "lastName": "Silverbirch",
+      "title": "Operations Lead",
+      "email": "skyler.silverbirch@thornhaven-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-071",
+      "orgId": "org-057",
+      "firstName": "Robin",
+      "lastName": "Moonfield",
+      "title": "Programme Director",
+      "email": "robin.moonfield@hazelwick-literacy-foundation.example.org",
+      "phone": "+44 7700 900015"
+    },
+    {
+      "id": "con-072",
+      "orgId": "org-057",
+      "firstName": "Ines",
+      "lastName": "Dapplegate",
+      "title": "Programme Director",
+      "email": "ines.dapplegate@hazelwick-literacy-foundation.example.org",
+      "phone": "+44 7700 900889"
+    },
+    {
+      "id": "con-073",
+      "orgId": "org-058",
+      "firstName": "Arjun",
+      "lastName": "Silverbirch",
+      "title": "Headteacher",
+      "email": "arjun.silverbirch@wrenholt-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-074",
+      "orgId": "org-059",
+      "firstName": "Quinn",
+      "lastName": "Willowmere",
+      "title": "Head of Partnerships",
+      "email": "quinn.willowmere@brightmoor-institute-of-technology.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-075",
+      "orgId": "org-060",
+      "firstName": "Blake",
+      "lastName": "Hazelburrow",
+      "title": "Training Lead",
+      "email": "blake.hazelburrow@stonefold-community-health-trust.example.org",
+      "phone": "+44 7700 900136"
+    },
+    {
+      "id": "con-076",
+      "orgId": "org-060",
+      "firstName": "Kofi",
+      "lastName": "Ambermoor",
+      "title": "Head of Procurement",
+      "email": "kofi.ambermoor@stonefold-community-health-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-077",
+      "orgId": "org-061",
+      "firstName": "Sasha",
+      "lastName": "Moonfield",
+      "title": "Education Officer",
+      "email": "sasha.moonfield@westcombe-county-council.example.org",
+      "phone": "+44 7700 900071"
+    },
+    {
+      "id": "con-078",
+      "orgId": "org-062",
+      "firstName": "Logan",
+      "lastName": "Willowmere",
+      "title": "Head of Digital Learning",
+      "email": "logan.willowmere@university-of-brackenhaven.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-079",
+      "orgId": "org-062",
+      "firstName": "Parker",
+      "lastName": "Bramblewick",
+      "title": "Procurement Lead",
+      "email": "parker.bramblewick@university-of-brackenhaven.example.org",
+      "phone": "+44 7700 900571"
+    },
+    {
+      "id": "con-080",
+      "orgId": "org-063",
+      "firstName": "Lena",
+      "lastName": "Silverbirch",
+      "title": "Operations Manager",
+      "email": "lena.silverbirch@brightwick-community-health-trust.example.org",
+      "phone": "+44 7700 900706"
+    },
+    {
+      "id": "con-081",
+      "orgId": "org-064",
+      "firstName": "Riley",
+      "lastName": "Marrowgate",
+      "title": "Business Manager",
+      "email": "riley.marrowgate@quillfold-primary-school.example.org",
+      "phone": "+44 7700 900407"
+    },
+    {
+      "id": "con-082",
+      "orgId": "org-064",
+      "firstName": "Rowan",
+      "lastName": "Hazelburrow",
+      "title": "IT Coordinator",
+      "email": "rowan.hazelburrow@quillfold-primary-school.example.org",
+      "phone": "+44 7700 900993"
+    },
+    {
+      "id": "con-083",
+      "orgId": "org-065",
+      "firstName": "Arjun",
+      "lastName": "Inkwell",
+      "title": "Head of Digital Learning",
+      "email": "arjun.inkwell@wrenmoor-institute-of-technology.example.org",
+      "phone": "+44 7700 900180"
+    },
+    {
+      "id": "con-084",
+      "orgId": "org-066",
+      "firstName": "Quinn",
+      "lastName": "Mistlebrook",
+      "title": "Headteacher",
+      "email": "quinn.mistlebrook@elmmere-academy.example.org",
+      "phone": "+44 7700 900600"
+    },
+    {
+      "id": "con-085",
+      "orgId": "org-066",
+      "firstName": "Arjun",
+      "lastName": "Fernhollow",
+      "title": "IT Coordinator",
+      "email": "arjun.fernhollow@elmmere-academy.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-086",
+      "orgId": "org-067",
+      "firstName": "Morgan",
+      "lastName": "Tinderbox",
+      "title": "Headteacher",
+      "email": "morgan.tinderbox@oakbrook-primary-school.example.org",
+      "phone": "+44 7700 900585"
+    },
+    {
+      "id": "con-087",
+      "orgId": "org-068",
+      "firstName": "Avery",
+      "lastName": "Silverbirch",
+      "title": "Education Officer",
+      "email": "avery.silverbirch@oakcombe-district-council.example.org",
+      "phone": "+44 7700 900992"
+    },
+    {
+      "id": "con-088",
+      "orgId": "org-068",
+      "firstName": "Blake",
+      "lastName": "Fernhollow",
+      "title": "Procurement Officer",
+      "email": "blake.fernhollow@oakcombe-district-council.example.org",
+      "phone": "+44 7700 900986"
+    },
+    {
+      "id": "con-089",
+      "orgId": "org-069",
+      "firstName": "Avery",
+      "lastName": "Larkspur",
+      "title": "Business Manager",
+      "email": "avery.larkspur@",
+      "phone": "+44 7700 900627"
+    },
+    {
+      "id": "con-090",
+      "orgId": "org-070",
+      "firstName": "Harper",
+      "lastName": "Cloudsley",
+      "title": "Head of Procurement",
+      "email": "harper.cloudsley@kestrelfold-childrens-hospital.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-091",
+      "orgId": "org-071",
+      "firstName": "Harper",
+      "lastName": "Puddleford",
+      "title": "Operations Lead",
+      "email": "harper.puddleford@westfold-community-learning-trust.example.org",
+      "phone": "+44 7700 900920"
+    },
+    {
+      "id": "con-092",
+      "orgId": "org-071",
+      "firstName": "Logan",
+      "lastName": "Penwhistle",
+      "title": "Partnerships Manager",
+      "email": "logan.penwhistle@westfold-community-learning-trust.example.org",
+      "phone": "+44 7700 900154"
+    },
+    {
+      "id": "con-093",
+      "orgId": "org-072",
+      "firstName": "Emerson",
+      "lastName": "Hazelburrow",
+      "title": "Partnerships Manager",
+      "email": "emerson.hazelburrow@ashbridge-youth-network.example.org",
+      "phone": "+44 7700 900618"
+    },
+    {
+      "id": "con-094",
+      "orgId": "org-073",
+      "firstName": "Noor",
+      "lastName": "Hazelburrow",
+      "title": "Education Officer",
+      "email": "noor.hazelburrow@wrenwick-borough-council.example.org",
+      "phone": "+44 7700 900904"
+    },
+    {
+      "id": "con-095",
+      "orgId": "org-074",
+      "firstName": "Kofi",
+      "lastName": "Thistlewood",
+      "title": "Education Officer",
+      "email": "kofi.thistlewood@hazelmoor-borough-council.example.org",
+      "phone": "+44 7700 900440"
+    },
+    {
+      "id": "con-096",
+      "orgId": "org-075",
+      "firstName": "Mei",
+      "lastName": "Marrowgate",
+      "title": "Procurement Lead",
+      "email": "mei.marrowgate@larkmere-university.example.org",
+      "phone": "+44 7700 900213"
+    },
+    {
+      "id": "con-097",
+      "orgId": "org-075",
+      "firstName": "Rowan",
+      "lastName": "Larkspur",
+      "title": "Director of Admissions",
+      "email": "rowan.larkspur@larkmere-university.example.org",
+      "phone": "+44 7700 900346"
+    },
+    {
+      "id": "con-098",
+      "orgId": "org-076",
+      "firstName": "Harper",
+      "lastName": "Tinderbox",
+      "title": "IT Coordinator",
+      "email": "harper.tinderbox@quillbridge-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-099",
+      "orgId": "org-076",
+      "firstName": "Parker",
+      "lastName": "Marrowgate",
+      "title": "Deputy Head",
+      "email": "parker.marrowgate@quillbridge-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-100",
+      "orgId": "org-077",
+      "firstName": "Lena",
+      "lastName": "Mistlebrook",
+      "title": "Programme Director",
+      "email": "lena.mistlebrook@stonehaven-community-learning-trust.example.org",
+      "phone": "+44 7700 900917"
+    },
+    {
+      "id": "con-101",
+      "orgId": "org-078",
+      "firstName": "Alex",
+      "lastName": "Penwhistle",
+      "title": "Business Manager",
+      "email": "alex.penwhistle@eastcombe-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-102",
+      "orgId": "org-078",
+      "firstName": "Quinn",
+      "lastName": "Quillfeather",
+      "title": "Business Manager",
+      "email": "quinn.quillfeather@eastcombe-high-school.example.org",
+      "phone": "+44 7700 900290"
+    },
+    {
+      "id": "con-103",
+      "orgId": "org-079",
+      "firstName": "Rowan",
+      "lastName": "Penwhistle",
+      "title": "IT Coordinator",
+      "email": "rowan.penwhistle@stonevale-sixth-form-college.example.org",
+      "phone": "+44 7700 900920"
+    },
+    {
+      "id": "con-104",
+      "orgId": "org-079",
+      "firstName": "Avery",
+      "lastName": "Fernhollow",
+      "title": "Deputy Head",
+      "email": "avery.fernhollow@stonevale-sixth-form-college.example.org",
+      "phone": "+44 7700 900724"
+    },
+    {
+      "id": "con-105",
+      "orgId": "org-080",
+      "firstName": "Drew",
+      "lastName": "Inkwell",
+      "title": "Director of Admissions",
+      "email": "drew.inkwell@university-of-quillwick.example.org",
+      "phone": "+44 7700 900075"
+    },
+    {
+      "id": "con-106",
+      "orgId": "org-080",
+      "firstName": "Logan",
+      "lastName": "Fernhollow",
+      "title": "Head of Partnerships",
+      "email": "logan.fernhollow@university-of-quillwick.example.org",
+      "phone": "+44 7700 900803"
+    },
+    {
+      "id": "con-107",
+      "orgId": "org-081",
+      "firstName": "Kofi",
+      "lastName": "Quillfeather",
+      "title": "Partnerships Manager",
+      "email": "kofi.quillfeather@ashfold-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-108",
+      "orgId": "org-081",
+      "firstName": "Logan",
+      "lastName": "Mistlebrook",
+      "title": "Programme Director",
+      "email": "logan.mistlebrook@ashfold-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-109",
+      "orgId": "org-082",
+      "firstName": "Sasha",
+      "lastName": "Mistlebrook",
+      "title": "Business Manager",
+      "email": "sasha.mistlebrook@wrencombe-primary-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-110",
+      "orgId": "org-083",
+      "firstName": "Reese",
+      "lastName": "Fernhollow",
+      "title": "Training Lead",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "con-111",
+      "orgId": "org-084",
+      "firstName": "Harper",
+      "lastName": "Pebbleworth",
+      "title": "Partnerships Manager",
+      "email": "harper.pebbleworth@quillholt-community-learning-trust.example.org",
+      "phone": "+44 7700 900206"
+    },
+    {
+      "id": "con-112",
+      "orgId": "org-085",
+      "firstName": "Skyler",
+      "lastName": "Thistlewood",
+      "title": "Education Officer",
+      "email": "skyler.thistlewood@kestrelbridge-borough-council.example.org",
+      "phone": "+44 7700 900752"
+    },
+    {
+      "id": "con-113",
+      "orgId": "org-086",
+      "firstName": "Kofi",
+      "lastName": "Oakhollow",
+      "title": "Headteacher",
+      "email": "kofi.oakhollow@brighthaven-high-school.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-114",
+      "orgId": "org-086",
+      "firstName": "Kofi",
+      "lastName": "Mistlebrook",
+      "title": "Deputy Head",
+      "email": "kofi.mistlebrook@brighthaven-high-school.example.org",
+      "phone": "+44 7700 900365"
+    },
+    {
+      "id": "con-115",
+      "orgId": "org-087",
+      "firstName": "Kendall",
+      "lastName": "Bramblewick",
+      "title": "Partnerships Manager",
+      "email": "kendall.bramblewick@southmere-community-learning-trust.example.",
+      "phone": "+44 7700 900935"
+    },
+    {
+      "id": "con-116",
+      "orgId": "org-088",
+      "firstName": "Mei",
+      "lastName": "Dapplegate",
+      "title": "Head of Partnerships",
+      "email": "mei.dapplegate@stonebrook-university.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-117",
+      "orgId": "org-088",
+      "firstName": "Sasha",
+      "lastName": "Dapplegate",
+      "title": "Procurement Lead",
+      "email": "sasha.dapplegate@stonebrook-university.example.org",
+      "phone": "+44 7700 900808"
+    },
+    {
+      "id": "con-118",
+      "orgId": "org-089",
+      "firstName": "Parker",
+      "lastName": "Hazelburrow",
+      "title": "Partnerships Manager",
+      "email": "parker.hazelburrow@northwick-community-learning-trust.example.org",
+      "phone": "+44 7700 900294"
+    },
+    {
+      "id": "con-119",
+      "orgId": "org-089",
+      "firstName": "Avery",
+      "lastName": "Quillfeather",
+      "title": "Programme Director",
+      "email": "avery.quillfeather@northwick-community-learning-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-120",
+      "orgId": "org-090",
+      "firstName": "Morgan",
+      "lastName": "Moonfield",
+      "title": "Education Officer",
+      "email": "morgan.moonfield@kestrelmere-district-council.example.org",
+      "phone": "+44 7700 900032"
+    },
+    {
+      "id": "con-121",
+      "orgId": "org-091",
+      "firstName": "Parker",
+      "lastName": "Willowmere",
+      "title": "Operations Manager",
+      "email": "parker.willowmere@amberholt-general-hospital.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-122",
+      "orgId": "org-092",
+      "firstName": "Tatum",
+      "lastName": "Fernhollow",
+      "title": "Head of Procurement",
+      "email": "tatum.fernhollow@quillcombe-community-health-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-123",
+      "orgId": "org-092",
+      "firstName": "Jamie",
+      "lastName": "Larkspur",
+      "title": "Head of Procurement",
+      "email": "jamie.larkspur@quillcombe-community-health-trust.example.org",
+      "phone": "+44 7700 900532"
+    },
+    {
+      "id": "con-124",
+      "orgId": "org-093",
+      "firstName": "Noor",
+      "lastName": "Puddleford",
+      "title": "Director of Admissions",
+      "email": "noor.puddleford@university-of-brackencombe.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-125",
+      "orgId": "org-093",
+      "firstName": "Drew",
+      "lastName": "Quillfeather",
+      "title": "Head of Partnerships",
+      "email": "drew.quillfeather@university-of-brackencombe.example.org",
+      "phone": "+44 7700 900276"
+    },
+    {
+      "id": "con-126",
+      "orgId": "org-094",
+      "firstName": "Parker",
+      "lastName": "Oakhollow",
+      "title": "Programme Director",
+      "email": "parker.oakhollow@brightvale-youth-network.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-127",
+      "orgId": "org-094",
+      "firstName": "Kendall",
+      "lastName": "Willowmere",
+      "title": "Partnerships Manager",
+      "email": "kendall.willowmere@brightvale-youth-network.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-128",
+      "orgId": "org-095",
+      "firstName": "Casey",
+      "lastName": "Larkspur",
+      "title": "Head of Partnerships",
+      "email": "CASEY.LARKSPUR@UNIVERSITY-OF-EASTMOOR.EXAMPLE.ORG",
+      "phone": "+44 7700 900466"
+    },
+    {
+      "id": "con-129",
+      "orgId": "org-096",
+      "firstName": "Sasha",
+      "lastName": "Ambermoor",
+      "title": "Deputy Head",
+      "email": "sasha.ambermoor@elmholt-academy-trust.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-130",
+      "orgId": "org-097",
+      "firstName": "Avery",
+      "lastName": "Marrowgate",
+      "title": "Operations Manager",
+      "email": "avery.marrowgate@southbrook-childrens-hospital.example.org",
+      "phone": "+44 7700 900288"
+    },
+    {
+      "id": "con-131",
+      "orgId": "org-098",
+      "firstName": "Logan",
+      "lastName": "Ambermoor",
+      "title": "Operations Lead",
+      "email": "logan.ambermoor@westbridge-literacy-foundation.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-132",
+      "orgId": "org-099",
+      "firstName": "Rowan",
+      "lastName": "Marrowgate",
+      "title": "Procurement Officer",
+      "email": "rowan.marrowgate@ashhaven-district-council.example.org",
+      "phone": ""
+    },
+    {
+      "id": "con-133",
+      "orgId": "org-100",
+      "firstName": "Noor",
+      "lastName": "Pebbleworth",
+      "title": "Operations Lead",
+      "email": "noor.pebbleworth@stonecombe-community-learning-trust.example.org",
+      "phone": "+44 7700 900962"
+    },
+    {
+      "id": "con-134",
+      "orgId": "org-031",
+      "firstName": "Mei",
+      "lastName": "Copperkettle",
+      "title": "Education Officer",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp-001",
+      "orgId": "org-001",
+      "contactId": "con-001",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Try a phone call",
+      "followUpDate": "2026-10-23",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-002",
+      "orgId": "org-002",
+      "contactId": "con-002",
+      "stage": "lost",
+      "lostFromStage": "meeting_booked",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-003",
+      "orgId": "org-003",
+      "contactId": "con-004",
+      "stage": "meeting_booked",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Prepare meeting agenda",
+      "followUpDate": "2026-10-28",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-004",
+      "orgId": "org-004",
+      "contactId": "con-006",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-005",
+      "orgId": "org-005",
+      "contactId": "con-007",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-006",
+      "orgId": "org-006",
+      "contactId": "con-009",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-007",
+      "orgId": "org-007",
+      "contactId": "con-010",
+      "stage": "won",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Elena",
+      "nextAction": "Hand over to onboarding",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-008",
+      "orgId": "org-008",
+      "contactId": "con-011",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Book qualification call",
+      "followUpDate": "2026-10-24",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-009",
+      "orgId": "org-009",
+      "contactId": "con-012",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "high",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-010",
+      "orgId": "org-010",
+      "contactId": "con-013",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Elena",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-10",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-011",
+      "orgId": "org-011",
+      "contactId": "con-015",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Book qualification call",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-012",
+      "orgId": "org-012",
+      "contactId": "con-016",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Send introductory email",
+      "followUpDate": "2026-10-12",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-013",
+      "orgId": "org-013",
+      "contactId": "con-017",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-014",
+      "orgId": "org-014",
+      "contactId": "con-018",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-11",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-015",
+      "orgId": "org-015",
+      "contactId": "con-019",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Elena",
+      "nextAction": "Try a phone call",
+      "followUpDate": "2026-10-24",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-016",
+      "orgId": "org-016",
+      "contactId": "con-020",
+      "stage": "lost",
+      "lostFromStage": "replied",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-017",
+      "orgId": "org-017",
+      "contactId": "con-021",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "high",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-018",
+      "orgId": "org-018",
+      "contactId": "con-022",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Elena",
+      "nextAction": "Send introductory email",
+      "followUpDate": "2026-10-25",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-019",
+      "orgId": "org-019",
+      "contactId": "con-023",
+      "stage": "lost",
+      "lostFromStage": "replied",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-020",
+      "orgId": "org-020",
+      "contactId": "con-025",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-22",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-021",
+      "orgId": "org-021",
+      "contactId": "con-026",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-022",
+      "orgId": "org-022",
+      "contactId": "con-028",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-15",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-023",
+      "orgId": "org-023",
+      "contactId": "con-029",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-29",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-024",
+      "orgId": "org-024",
+      "contactId": "con-031",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "Send introductory email",
+      "followUpDate": "2026-10-18",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-025",
+      "orgId": "org-025",
+      "contactId": "con-032",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Try a phone call",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-026",
+      "orgId": "org-026",
+      "contactId": "con-034",
+      "stage": "lost",
+      "lostFromStage": "replied",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-027",
+      "orgId": "org-027",
+      "contactId": "con-035",
+      "stage": "won",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Hand over to onboarding",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-028",
+      "orgId": "org-028",
+      "contactId": "con-036",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-029",
+      "orgId": "org-029",
+      "contactId": "con-038",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Connect on LinkedIn",
+      "followUpDate": "2026-10-14",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-030",
+      "orgId": "org-030",
+      "contactId": "con-039",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Marcus",
+      "nextAction": "Book qualification call",
+      "followUpDate": "2026-10-18",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-031",
+      "orgId": "org-031",
+      "contactId": "con-040",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-27",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-032",
+      "orgId": "org-032",
+      "contactId": "con-041",
+      "stage": "lost",
+      "lostFromStage": "replied",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-033",
+      "orgId": "org-033",
+      "contactId": "con-042",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-034",
+      "orgId": "org-034",
+      "contactId": "con-043",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-12",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-035",
+      "orgId": "org-035",
+      "contactId": "con-044",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "high",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-036",
+      "orgId": "org-036",
+      "contactId": "con-045",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-037",
+      "orgId": "org-037",
+      "contactId": "con-046",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "27/10/2026",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-038",
+      "orgId": "org-038",
+      "contactId": "con-047",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Priya",
+      "nextAction": "Try a phone call",
+      "followUpDate": "2026-10-04",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-039",
+      "orgId": "org-039",
+      "contactId": "con-049",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Marcus",
+      "nextAction": "Confirm budget cycle",
+      "followUpDate": "2026-10-16",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-040",
+      "orgId": "org-040",
+      "contactId": "con-051",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Book qualification call",
+      "followUpDate": "2026-10-27",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-041",
+      "orgId": "org-041",
+      "contactId": "con-052",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-21",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-042",
+      "orgId": "org-042",
+      "contactId": "con-053",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-043",
+      "orgId": "org-043",
+      "contactId": "con-054",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Try a phone call",
+      "followUpDate": "2026-10-14",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-044",
+      "orgId": "org-044",
+      "contactId": "con-056",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-045",
+      "orgId": "org-045",
+      "contactId": "con-057",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-046",
+      "orgId": "org-046",
+      "contactId": "con-058",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-04",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-047",
+      "orgId": "org-047",
+      "contactId": "con-059",
+      "stage": "lost",
+      "lostFromStage": "qualified",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-048",
+      "orgId": "org-048",
+      "contactId": "con-060",
+      "stage": "proposal",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Chase proposal decision",
+      "followUpDate": "2026-10-21",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-049",
+      "orgId": "org-049",
+      "contactId": "con-061",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-11-01",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-050",
+      "orgId": "org-050",
+      "contactId": "con-063",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Connect on LinkedIn",
+      "followUpDate": "10/10/2026",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-051",
+      "orgId": "org-051",
+      "contactId": "con-064",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Send introductory email",
+      "followUpDate": "2026-10-30",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-052",
+      "orgId": "org-052",
+      "contactId": "con-065",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Propose meeting times",
+      "followUpDate": "2026-11-06",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-053",
+      "orgId": "org-053",
+      "contactId": "con-066",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-14",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-054",
+      "orgId": "org-054",
+      "contactId": "con-067",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-16",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-055",
+      "orgId": "org-055",
+      "contactId": "con-068",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-22",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-056",
+      "orgId": "org-056",
+      "contactId": "con-070",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Priya",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-09",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-057",
+      "orgId": "org-057",
+      "contactId": "con-071",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "Answer questions from reply",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-058",
+      "orgId": "org-058",
+      "contactId": "con-073",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Marcus",
+      "nextAction": "Confirm budget cycle",
+      "followUpDate": "2026-10-11",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-059",
+      "orgId": "org-059",
+      "contactId": "con-074",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Confirm budget cycle",
+      "followUpDate": "2026-10-16",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-060",
+      "orgId": "org-060",
+      "contactId": "con-075",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Elena",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-15",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-061",
+      "orgId": "org-061",
+      "contactId": "con-077",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-062",
+      "orgId": "org-062",
+      "contactId": "con-078",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Connect on LinkedIn",
+      "followUpDate": "2026-10-25",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-063",
+      "orgId": "org-063",
+      "contactId": "con-080",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Marcus",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-11-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-064",
+      "orgId": "org-064",
+      "contactId": "con-081",
+      "stage": "lost",
+      "lostFromStage": "proposal",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-065",
+      "orgId": "org-065",
+      "contactId": "con-083",
+      "stage": "lost",
+      "lostFromStage": "qualified",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-066",
+      "orgId": "org-066",
+      "contactId": "con-084",
+      "stage": "proposal",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Chase proposal decision",
+      "followUpDate": "2026-10-27",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-067",
+      "orgId": "org-067",
+      "contactId": "con-086",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-11-02",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-068",
+      "orgId": "org-068",
+      "contactId": "con-087",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-11",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-069",
+      "orgId": "org-069",
+      "contactId": "con-089",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Jordan",
+      "nextAction": "Answer questions from reply",
+      "followUpDate": "2026-10-09",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-070",
+      "orgId": "org-070",
+      "contactId": "con-090",
+      "stage": "meeting_booked",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Prepare meeting agenda",
+      "followUpDate": "2026-10-22",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-071",
+      "orgId": "org-071",
+      "contactId": "con-091",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-28",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-072",
+      "orgId": "org-072",
+      "contactId": "con-093",
+      "stage": "lost",
+      "lostFromStage": "replied",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-073",
+      "orgId": "org-073",
+      "contactId": "con-094",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Book qualification call",
+      "followUpDate": "2026-11-01",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-074",
+      "orgId": "org-074",
+      "contactId": "con-095",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-26",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-075",
+      "orgId": "org-075",
+      "contactId": "con-096",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-14",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-076",
+      "orgId": "org-076",
+      "contactId": "con-098",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Book qualification call",
+      "followUpDate": "2026-10-30",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-077",
+      "orgId": "org-077",
+      "contactId": "con-100",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "",
+      "nextAction": "Confirm budget cycle",
+      "followUpDate": "2026-10-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-078",
+      "orgId": "org-078",
+      "contactId": "con-101",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-11-06",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-079",
+      "orgId": "org-079",
+      "contactId": "con-103",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Answer questions from reply",
+      "followUpDate": "2026-10-30",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-080",
+      "orgId": "org-080",
+      "contactId": "con-105",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-12",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-081",
+      "orgId": "org-081",
+      "contactId": "con-107",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-07",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-082",
+      "orgId": "org-082",
+      "contactId": "con-109",
+      "stage": "lost",
+      "lostFromStage": "contacted",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-083",
+      "orgId": "org-083",
+      "contactId": "con-110",
+      "stage": "proposal",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Chase proposal decision",
+      "followUpDate": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-084",
+      "orgId": "org-084",
+      "contactId": "con-111",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Priya",
+      "nextAction": "Confirm budget cycle",
+      "followUpDate": "2026-10-23",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-085",
+      "orgId": "org-085",
+      "contactId": "con-112",
+      "stage": "meeting_booked",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Send pre-read",
+      "followUpDate": "2026-10-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-086",
+      "orgId": "org-086",
+      "contactId": "con-113",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-11-03",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-087",
+      "orgId": "org-087",
+      "contactId": "con-115",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Try a phone call",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-088",
+      "orgId": "org-088",
+      "contactId": "con-116",
+      "stage": "meeting_booked",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "Prepare meeting agenda",
+      "followUpDate": "2026-10-17",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-089",
+      "orgId": "org-089",
+      "contactId": "con-118",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-28",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-090",
+      "orgId": "org-090",
+      "contactId": "con-120",
+      "stage": "won",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Hand over to onboarding",
+      "followUpDate": "",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-091",
+      "orgId": "org-091",
+      "contactId": "con-121",
+      "stage": "meeting_booked",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Jordan",
+      "nextAction": "Send pre-read",
+      "followUpDate": "2026-10-12",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-092",
+      "orgId": "org-092",
+      "contactId": "con-122",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Marcus",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-10-30",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-093",
+      "orgId": "org-093",
+      "contactId": "con-124",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "low",
+      "owner": "Elena",
+      "nextAction": "Send introductory email",
+      "followUpDate": "2026-10-29",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-094",
+      "orgId": "org-094",
+      "contactId": "con-126",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Try a phone call",
+      "followUpDate": "2026-10-13",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-095",
+      "orgId": "org-095",
+      "contactId": "con-128",
+      "stage": "not_contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Research decision maker",
+      "followUpDate": "2026-10-15",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-096",
+      "orgId": "org-096",
+      "contactId": "con-129",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Jordan",
+      "nextAction": "Share case-study one-pager",
+      "followUpDate": "2026-10-23",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-097",
+      "orgId": "org-097",
+      "contactId": "con-130",
+      "stage": "replied",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Priya",
+      "nextAction": "Answer questions from reply",
+      "followUpDate": "2026-10-16",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-098",
+      "orgId": "org-098",
+      "contactId": "con-131",
+      "stage": "qualified",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Elena",
+      "nextAction": "Propose meeting times",
+      "followUpDate": "2026-10-08",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-099",
+      "orgId": "org-099",
+      "contactId": "con-132",
+      "stage": "proposal",
+      "lostFromStage": "",
+      "priority": "high",
+      "owner": "Marcus",
+      "nextAction": "Answer procurement questions",
+      "followUpDate": "2026-10-05",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    },
+    {
+      "id": "opp-100",
+      "orgId": "org-100",
+      "contactId": "con-133",
+      "stage": "contacted",
+      "lostFromStage": "",
+      "priority": "medium",
+      "owner": "Marcus",
+      "nextAction": "Send follow-up email",
+      "followUpDate": "2026-11-03",
+      "notes": "",
+      "createdAt": "2026-07-27T09:00:00.000Z",
+      "updatedAt": "2026-10-16T09:00:00.000Z"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-001",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-07-27",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-002",
+      "opportunityId": "opp-009",
+      "contactId": "con-012",
+      "date": "2026-07-27",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-003",
+      "opportunityId": "opp-056",
+      "contactId": "con-070",
+      "date": "2026-07-27",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-004",
+      "opportunityId": "opp-033",
+      "contactId": "con-042",
+      "date": "2026-07-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-005",
+      "opportunityId": "opp-008",
+      "contactId": "con-011",
+      "date": "2026-07-29",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-006",
+      "opportunityId": "opp-009",
+      "contactId": "con-012",
+      "date": "2026-07-29",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-007",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-07-29",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-008",
+      "opportunityId": "opp-058",
+      "contactId": "con-073",
+      "date": "2026-07-30",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-009",
+      "opportunityId": "opp-056",
+      "contactId": "con-070",
+      "date": "2026-07-31",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-010",
+      "opportunityId": "opp-078",
+      "contactId": "con-101",
+      "date": "2026-07-31",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-011",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-08-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-012",
+      "opportunityId": "opp-058",
+      "contactId": "con-073",
+      "date": "2026-08-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-013",
+      "opportunityId": "opp-033",
+      "contactId": "con-042",
+      "date": "2026-08-03",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-014",
+      "opportunityId": "opp-046",
+      "contactId": "con-058",
+      "date": "2026-08-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-015",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-08-03",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-016",
+      "opportunityId": "opp-058",
+      "contactId": "con-073",
+      "date": "2026-08-04",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-017",
+      "opportunityId": "opp-070",
+      "contactId": "con-090",
+      "date": "2026-08-05",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-018",
+      "opportunityId": "opp-078",
+      "contactId": "con-101",
+      "date": "2026-08-05",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-019",
+      "opportunityId": "opp-009",
+      "contactId": "con-012",
+      "date": "2026-08-06",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-020",
+      "opportunityId": "opp-052",
+      "contactId": "con-065",
+      "date": "2026-08-06",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-021",
+      "opportunityId": "opp-071",
+      "contactId": "con-091",
+      "date": "2026-08-06",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-022",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-08-07",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-023",
+      "opportunityId": "opp-008",
+      "contactId": "con-011",
+      "date": "2026-08-07",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-024",
+      "opportunityId": "opp-056",
+      "contactId": "con-070",
+      "date": "2026-08-07",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-025",
+      "opportunityId": "opp-065",
+      "contactId": "con-083",
+      "date": "2026-08-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-026",
+      "opportunityId": "opp-092",
+      "contactId": "con-122",
+      "date": "2026-08-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-027",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-028",
+      "opportunityId": "opp-052",
+      "contactId": "con-065",
+      "date": "2026-08-10",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-029",
+      "opportunityId": "opp-001",
+      "contactId": "con-001",
+      "date": "2026-08-11",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-030",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-08-11",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-031",
+      "opportunityId": "opp-044",
+      "contactId": "con-056",
+      "date": "2026-08-11",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-032",
+      "opportunityId": "opp-070",
+      "contactId": "con-090",
+      "date": "2026-08-11",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-033",
+      "opportunityId": "opp-033",
+      "contactId": "con-042",
+      "date": "2026-08-12",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-034",
+      "opportunityId": "opp-046",
+      "contactId": "con-058",
+      "date": "2026-08-12",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-035",
+      "opportunityId": "opp-058",
+      "contactId": "con-073",
+      "date": "2026-08-12",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-036",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-08-12",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-037",
+      "opportunityId": "opp-001",
+      "contactId": "con-001",
+      "date": "2026-08-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-038",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-08-13",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-039",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-08-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-040",
+      "opportunityId": "opp-070",
+      "contactId": "con-090",
+      "date": "2026-08-13",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-041",
+      "opportunityId": "opp-072",
+      "contactId": "con-093",
+      "date": "2026-08-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-042",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-08-14",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-043",
+      "opportunityId": "opp-009",
+      "contactId": "con-012",
+      "date": "2026-08-14",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-044",
+      "opportunityId": "opp-017",
+      "contactId": "con-021",
+      "date": "2026-08-14",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-045",
+      "opportunityId": "opp-044",
+      "contactId": "con-056",
+      "date": "2026-08-14",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-046",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-08-14",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-047",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-14",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-048",
+      "opportunityId": "opp-045",
+      "contactId": "con-057",
+      "date": "2026-08-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-049",
+      "opportunityId": "opp-054",
+      "contactId": "con-067",
+      "date": "2026-08-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-050",
+      "opportunityId": "opp-071",
+      "contactId": "con-091",
+      "date": "2026-08-15",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-051",
+      "opportunityId": "opp-052",
+      "contactId": "con-065",
+      "date": "2026-08-16",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-052",
+      "opportunityId": "opp-056",
+      "contactId": "con-070",
+      "date": "2026-08-16",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-053",
+      "opportunityId": "opp-091",
+      "contactId": "con-121",
+      "date": "2026-08-16",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-054",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-08-17",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-055",
+      "opportunityId": "opp-021",
+      "contactId": "con-026",
+      "date": "2026-08-17",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-056",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-08-17",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-057",
+      "opportunityId": "opp-065",
+      "contactId": "con-083",
+      "date": "2026-08-17",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-058",
+      "opportunityId": "opp-054",
+      "contactId": "con-067",
+      "date": "2026-08-18",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-059",
+      "opportunityId": "opp-070",
+      "contactId": "con-090",
+      "date": "2026-08-18",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-060",
+      "opportunityId": "opp-091",
+      "contactId": "con-121",
+      "date": "2026-08-18",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-061",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-18",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-062",
+      "opportunityId": "opp-017",
+      "contactId": "con-021",
+      "date": "2026-08-19",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-063",
+      "opportunityId": "opp-044",
+      "contactId": "con-056",
+      "date": "2026-08-19",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-064",
+      "opportunityId": "opp-046",
+      "contactId": "con-058",
+      "date": "2026-08-19",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-065",
+      "opportunityId": "opp-063",
+      "contactId": "con-080",
+      "date": "2026-08-19",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-066",
+      "opportunityId": "opp-053",
+      "contactId": "con-066",
+      "date": "2026-08-20",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-067",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-08-20",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-068",
+      "opportunityId": "opp-072",
+      "contactId": "con-093",
+      "date": "2026-08-20",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Replied: no budget this year"
+    },
+    {
+      "id": "act-069",
+      "opportunityId": "opp-091",
+      "contactId": "con-121",
+      "date": "2026-08-20",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-070",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-08-21",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-071",
+      "opportunityId": "opp-001",
+      "contactId": "con-001",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-072",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-073",
+      "opportunityId": "opp-021",
+      "contactId": "con-026",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-074",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-075",
+      "opportunityId": "opp-091",
+      "contactId": "con-121",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-076",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-077",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-08-23",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-078",
+      "opportunityId": "opp-025",
+      "contactId": "con-032",
+      "date": "2026-08-23",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-079",
+      "opportunityId": "opp-044",
+      "contactId": "con-056",
+      "date": "2026-08-23",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-080",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-08-24",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-081",
+      "opportunityId": "opp-053",
+      "contactId": "con-066",
+      "date": "2026-08-24",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-082",
+      "opportunityId": "opp-054",
+      "contactId": "con-067",
+      "date": "2026-08-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-083",
+      "opportunityId": "opp-070",
+      "contactId": "con-090",
+      "date": "2026-08-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-084",
+      "opportunityId": "opp-071",
+      "contactId": "con-091",
+      "date": "2026-08-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-085",
+      "opportunityId": "opp-001",
+      "contactId": "con-001",
+      "date": "2026-08-25",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-086",
+      "opportunityId": "opp-011",
+      "contactId": "con-015",
+      "date": "2026-08-25",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-087",
+      "opportunityId": "opp-047",
+      "contactId": "con-059",
+      "date": "2026-08-25",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-088",
+      "opportunityId": "opp-017",
+      "contactId": "con-021",
+      "date": "2026-08-26",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-089",
+      "opportunityId": "opp-063",
+      "contactId": "con-080",
+      "date": "2026-08-26",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-090",
+      "opportunityId": "opp-065",
+      "contactId": "con-083",
+      "date": "2026-08-26",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-091",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-26",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-092",
+      "opportunityId": "opp-046",
+      "contactId": "con-058",
+      "date": "2026-08-28",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-093",
+      "opportunityId": "opp-081",
+      "contactId": "con-107",
+      "date": "2026-08-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-094",
+      "opportunityId": "opp-085",
+      "contactId": "con-112",
+      "date": "2026-08-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-095",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-08-28",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-096",
+      "opportunityId": "opp-099",
+      "contactId": "con-132",
+      "date": "2026-08-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-097",
+      "opportunityId": "opp-044",
+      "contactId": "con-056",
+      "date": "2026-08-29",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-098",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-08-29",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-099",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-08-29",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-100",
+      "opportunityId": "opp-071",
+      "contactId": "con-091",
+      "date": "2026-08-29",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-101",
+      "opportunityId": "opp-091",
+      "contactId": "con-121",
+      "date": "2026-08-29",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-102",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-08-30",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-103",
+      "opportunityId": "opp-017",
+      "contactId": "con-021",
+      "date": "2026-08-30",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-104",
+      "opportunityId": "opp-063",
+      "contactId": "con-080",
+      "date": "2026-08-30",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-105",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-08-30",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-106",
+      "opportunityId": "opp-086",
+      "contactId": "con-113",
+      "date": "2026-08-30",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-107",
+      "opportunityId": "opp-002",
+      "contactId": "con-002",
+      "date": "2026-08-31",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Chose another option"
+    },
+    {
+      "id": "act-108",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-08-31",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-109",
+      "opportunityId": "opp-013",
+      "contactId": "con-017",
+      "date": "2026-08-31",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-110",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-08-31",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-111",
+      "opportunityId": "opp-054",
+      "contactId": "con-067",
+      "date": "2026-08-31",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-112",
+      "opportunityId": "opp-011",
+      "contactId": "con-015",
+      "date": "2026-09-01",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-113",
+      "opportunityId": "opp-025",
+      "contactId": "con-032",
+      "date": "2026-09-01",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-114",
+      "opportunityId": "opp-047",
+      "contactId": "con-059",
+      "date": "2026-09-01",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-115",
+      "opportunityId": "opp-053",
+      "contactId": "con-066",
+      "date": "2026-09-01",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-116",
+      "opportunityId": "opp-065",
+      "contactId": "con-083",
+      "date": "2026-09-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "not_interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-117",
+      "opportunityId": "opp-036",
+      "contactId": "con-045",
+      "date": "2026-09-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-118",
+      "opportunityId": "opp-073",
+      "contactId": "con-094",
+      "date": "2026-09-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-119",
+      "opportunityId": "opp-087",
+      "contactId": "con-115",
+      "date": "2026-09-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-120",
+      "opportunityId": "opp-097",
+      "contactId": "con-130",
+      "date": "2026-09-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-121",
+      "opportunityId": "opp-055",
+      "contactId": "con-068",
+      "date": "2026-09-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-122",
+      "opportunityId": "opp-075",
+      "contactId": "con-096",
+      "date": "2026-09-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-123",
+      "opportunityId": "opp-085",
+      "contactId": "con-112",
+      "date": "2026-09-03",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-124",
+      "opportunityId": "opp-086",
+      "contactId": "con-113",
+      "date": "2026-09-03",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-125",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-09-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-126",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-09-04",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-127",
+      "opportunityId": "opp-013",
+      "contactId": "con-017",
+      "date": "2026-09-04",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-128",
+      "opportunityId": "opp-059",
+      "contactId": "con-074",
+      "date": "2026-09-04",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-129",
+      "opportunityId": "opp-063",
+      "contactId": "con-080",
+      "date": "2026-09-04",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-130",
+      "opportunityId": "opp-081",
+      "contactId": "con-107",
+      "date": "2026-09-04",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-131",
+      "opportunityId": "opp-087",
+      "contactId": "con-115",
+      "date": "2026-09-04",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-132",
+      "opportunityId": "opp-003",
+      "contactId": "con-004",
+      "date": "2026-09-05",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-133",
+      "opportunityId": "opp-026",
+      "contactId": "con-034",
+      "date": "2026-09-05",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-134",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-05",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-135",
+      "opportunityId": "opp-085",
+      "contactId": "con-112",
+      "date": "2026-09-05",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-136",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-09-06",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-137",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-09-06",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-138",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-09-06",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-139",
+      "opportunityId": "opp-073",
+      "contactId": "con-094",
+      "date": "2026-09-06",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-140",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-09-06",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-141",
+      "opportunityId": "opp-097",
+      "contactId": "con-130",
+      "date": "2026-09-06",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-142",
+      "opportunityId": "opp-042",
+      "contactId": "con-053",
+      "date": "2026-09-07",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-143",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-09-07",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-144",
+      "opportunityId": "opp-053",
+      "contactId": "con-066",
+      "date": "2026-09-07",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-145",
+      "opportunityId": "opp-059",
+      "contactId": "con-074",
+      "date": "2026-09-07",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-146",
+      "opportunityId": "opp-023",
+      "contactId": "con-029",
+      "date": "2026-09-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-147",
+      "opportunityId": "opp-031",
+      "contactId": "con-040",
+      "date": "2026-09-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-148",
+      "opportunityId": "opp-055",
+      "contactId": "con-068",
+      "date": "2026-09-08",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-149",
+      "opportunityId": "opp-061",
+      "contactId": "con-077",
+      "date": "2026-09-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-150",
+      "opportunityId": "opp-085",
+      "contactId": "con-112",
+      "date": "2026-09-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-151",
+      "opportunityId": "opp-086",
+      "contactId": "con-113",
+      "date": "2026-09-08",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-152",
+      "opportunityId": "opp-011",
+      "contactId": "con-015",
+      "date": "2026-09-09",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-153",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-09-09",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-154",
+      "opportunityId": "opp-023",
+      "contactId": "con-029",
+      "date": "2026-09-10",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-155",
+      "opportunityId": "opp-031",
+      "contactId": "con-040",
+      "date": "2026-09-10",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-156",
+      "opportunityId": "opp-042",
+      "contactId": "con-053",
+      "date": "2026-09-10",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-157",
+      "opportunityId": "opp-047",
+      "contactId": "con-059",
+      "date": "2026-09-10",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "not_interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-158",
+      "opportunityId": "opp-075",
+      "contactId": "con-096",
+      "date": "2026-09-10",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-159",
+      "opportunityId": "opp-090",
+      "contactId": "con-120",
+      "date": "2026-09-10",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Confirmed go-ahead (synthetic)"
+    },
+    {
+      "id": "act-160",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-09-11",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-161",
+      "opportunityId": "opp-069",
+      "contactId": "con-089",
+      "date": "2026-09-11",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-162",
+      "opportunityId": "opp-079",
+      "contactId": "con-103",
+      "date": "2026-09-11",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-163",
+      "opportunityId": "opp-081",
+      "contactId": "con-107",
+      "date": "2026-09-11",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-164",
+      "opportunityId": "opp-004",
+      "contactId": "con-006",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-165",
+      "opportunityId": "opp-023",
+      "contactId": "con-029",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-166",
+      "opportunityId": "opp-026",
+      "contactId": "con-034",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Replied: no budget this year"
+    },
+    {
+      "id": "act-167",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-168",
+      "opportunityId": "opp-059",
+      "contactId": "con-074",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-169",
+      "opportunityId": "opp-061",
+      "contactId": "con-077",
+      "date": "2026-09-12",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-170",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-13",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-171",
+      "opportunityId": "opp-069",
+      "contactId": "con-089",
+      "date": "2026-09-13",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-172",
+      "opportunityId": "opp-042",
+      "contactId": "con-053",
+      "date": "2026-09-14",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-173",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-09-14",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-174",
+      "opportunityId": "opp-004",
+      "contactId": "con-006",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-175",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-176",
+      "opportunityId": "opp-020",
+      "contactId": "con-025",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-177",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-09-15",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-178",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-179",
+      "opportunityId": "opp-077",
+      "contactId": "con-100",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-180",
+      "opportunityId": "opp-079",
+      "contactId": "con-103",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-181",
+      "opportunityId": "opp-085",
+      "contactId": "con-112",
+      "date": "2026-09-15",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-182",
+      "opportunityId": "opp-096",
+      "contactId": "con-129",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-183",
+      "opportunityId": "opp-100",
+      "contactId": "con-133",
+      "date": "2026-09-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-184",
+      "opportunityId": "opp-086",
+      "contactId": "con-113",
+      "date": "2026-09-16",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-185",
+      "opportunityId": "opp-019",
+      "contactId": "con-023",
+      "date": "2026-09-17",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-186",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-09-17",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-187",
+      "opportunityId": "opp-081",
+      "contactId": "con-107",
+      "date": "2026-09-17",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-188",
+      "opportunityId": "opp-032",
+      "contactId": "con-041",
+      "date": "2026-09-18",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-189",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-18",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-190",
+      "opportunityId": "opp-066",
+      "contactId": "con-084",
+      "date": "2026-09-18",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-191",
+      "opportunityId": "opp-098",
+      "contactId": "con-131",
+      "date": "2026-09-18",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-192",
+      "opportunityId": "opp-014",
+      "contactId": "con-018",
+      "date": "2026-09-19",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-193",
+      "opportunityId": "opp-020",
+      "contactId": "con-025",
+      "date": "2026-09-19",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-194",
+      "opportunityId": "opp-023",
+      "contactId": "con-029",
+      "date": "2026-09-19",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-195",
+      "opportunityId": "opp-031",
+      "contactId": "con-040",
+      "date": "2026-09-19",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-196",
+      "opportunityId": "opp-075",
+      "contactId": "con-096",
+      "date": "2026-09-19",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-197",
+      "opportunityId": "opp-039",
+      "contactId": "con-049",
+      "date": "2026-09-20",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-198",
+      "opportunityId": "opp-059",
+      "contactId": "con-074",
+      "date": "2026-09-20",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-199",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-09-21",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-200",
+      "opportunityId": "opp-016",
+      "contactId": "con-020",
+      "date": "2026-09-21",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-201",
+      "opportunityId": "opp-020",
+      "contactId": "con-025",
+      "date": "2026-09-21",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-202",
+      "opportunityId": "opp-042",
+      "contactId": "con-053",
+      "date": "2026-09-21",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-203",
+      "opportunityId": "opp-049",
+      "contactId": "con-061",
+      "date": "2026-09-21",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-204",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-21",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-205",
+      "opportunityId": "opp-080",
+      "contactId": "con-105",
+      "date": "2026-09-21",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-206",
+      "opportunityId": "opp-019",
+      "contactId": "con-023",
+      "date": "2026-09-22",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Replied: no budget this year"
+    },
+    {
+      "id": "act-207",
+      "opportunityId": "opp-030",
+      "contactId": "con-039",
+      "date": "2026-09-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-208",
+      "opportunityId": "opp-032",
+      "contactId": "con-041",
+      "date": "2026-09-22",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Replied: no budget this year"
+    },
+    {
+      "id": "act-209",
+      "opportunityId": "opp-035",
+      "contactId": "con-044",
+      "date": "2026-09-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-210",
+      "opportunityId": "opp-057",
+      "contactId": "con-071",
+      "date": "2026-09-22",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-211",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-09-22",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-212",
+      "opportunityId": "opp-100",
+      "contactId": "con-133",
+      "date": "2026-09-22",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-213",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-09-23",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-214",
+      "opportunityId": "opp-028",
+      "contactId": "con-036",
+      "date": "2026-09-23",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-215",
+      "opportunityId": "opp-077",
+      "contactId": "con-100",
+      "date": "2026-09-23",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-216",
+      "opportunityId": "opp-042",
+      "contactId": "con-053",
+      "date": "2026-09-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-217",
+      "opportunityId": "opp-048",
+      "contactId": "con-060",
+      "date": "2026-09-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-218",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-09-24",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    },
+    {
+      "id": "act-219",
+      "opportunityId": "opp-006",
+      "contactId": "con-009",
+      "date": "2026-09-25",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-220",
+      "opportunityId": "opp-014",
+      "contactId": "con-018",
+      "date": "2026-09-25",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-221",
+      "opportunityId": "opp-016",
+      "contactId": "con-020",
+      "date": "2026-09-25",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-222",
+      "opportunityId": "opp-039",
+      "contactId": "con-049",
+      "date": "2026-09-25",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-223",
+      "opportunityId": "opp-064",
+      "contactId": "con-081",
+      "date": "2026-09-25",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Chose another option"
+    },
+    {
+      "id": "act-224",
+      "opportunityId": "opp-080",
+      "contactId": "con-105",
+      "date": "2026-09-25",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-225",
+      "opportunityId": "opp-098",
+      "contactId": "con-131",
+      "date": "2026-09-25",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-226",
+      "opportunityId": "opp-088",
+      "contactId": "con-116",
+      "date": "2026-09-26",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-227",
+      "opportunityId": "opp-038",
+      "contactId": "con-047",
+      "date": "2026-09-27",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-228",
+      "opportunityId": "opp-076",
+      "contactId": "con-098",
+      "date": "2026-09-27",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-229",
+      "opportunityId": "opp-077",
+      "contactId": "con-100",
+      "date": "2026-09-27",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-230",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-09-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-231",
+      "opportunityId": "opp-030",
+      "contactId": "con-039",
+      "date": "2026-09-28",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-232",
+      "opportunityId": "opp-049",
+      "contactId": "con-061",
+      "date": "2026-09-28",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-233",
+      "opportunityId": "opp-076",
+      "contactId": "con-098",
+      "date": "2026-09-29",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-234",
+      "opportunityId": "opp-006",
+      "contactId": "con-009",
+      "date": "2026-09-30",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-235",
+      "opportunityId": "opp-016",
+      "contactId": "con-020",
+      "date": "2026-09-30",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "not_interested",
+      "note": "Replied: no budget this year"
+    },
+    {
+      "id": "act-236",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-09-30",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-237",
+      "opportunityId": "opp-057",
+      "contactId": "con-071",
+      "date": "2026-09-30",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-238",
+      "opportunityId": "opp-098",
+      "contactId": "con-131",
+      "date": "2026-09-30",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-239",
+      "opportunityId": "opp-100",
+      "contactId": "con-133",
+      "date": "2026-09-30",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-240",
+      "opportunityId": "opp-028",
+      "contactId": "con-036",
+      "date": "2026-10-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-241",
+      "opportunityId": "opp-035",
+      "contactId": "con-044",
+      "date": "2026-10-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-242",
+      "opportunityId": "opp-037",
+      "contactId": "con-046",
+      "date": "2026-10-01",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-243",
+      "opportunityId": "opp-038",
+      "contactId": "con-047",
+      "date": "2026-10-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-244",
+      "opportunityId": "opp-043",
+      "contactId": "con-054",
+      "date": "2026-10-01",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-245",
+      "opportunityId": "opp-049",
+      "contactId": "con-061",
+      "date": "2026-10-01",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-246",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-10-01",
+      "type": "meeting",
+      "direction": "outbound",
+      "outcome": "meeting_held",
+      "note": "Discovery meeting"
+    },
+    {
+      "id": "act-247",
+      "opportunityId": "opp-088",
+      "contactId": "con-116",
+      "date": "2026-10-01",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-248",
+      "opportunityId": "opp-015",
+      "contactId": "con-019",
+      "date": "2026-10-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-249",
+      "opportunityId": "opp-057",
+      "contactId": "con-071",
+      "date": "2026-10-02",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-250",
+      "opportunityId": "opp-074",
+      "contactId": "con-095",
+      "date": "2026-10-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-251",
+      "opportunityId": "opp-077",
+      "contactId": "con-100",
+      "date": "2026-10-02",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-252",
+      "opportunityId": "opp-080",
+      "contactId": "con-105",
+      "date": "2026-10-02",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-253",
+      "opportunityId": "opp-005",
+      "contactId": "con-007",
+      "date": "2026-10-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-254",
+      "opportunityId": "opp-014",
+      "contactId": "con-018",
+      "date": "2026-10-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-255",
+      "opportunityId": "opp-035",
+      "contactId": "con-044",
+      "date": "2026-10-03",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-256",
+      "opportunityId": "opp-040",
+      "contactId": "con-051",
+      "date": "2026-10-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-257",
+      "opportunityId": "opp-067",
+      "contactId": "con-086",
+      "date": "2026-10-03",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-258",
+      "opportunityId": "opp-007",
+      "contactId": "con-010",
+      "date": "2026-10-04",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Confirmed go-ahead (synthetic)"
+    },
+    {
+      "id": "act-259",
+      "opportunityId": "opp-015",
+      "contactId": "con-019",
+      "date": "2026-10-04",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-260",
+      "opportunityId": "opp-039",
+      "contactId": "con-049",
+      "date": "2026-10-04",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-261",
+      "opportunityId": "opp-030",
+      "contactId": "con-039",
+      "date": "2026-10-05",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-262",
+      "opportunityId": "opp-094",
+      "contactId": "con-126",
+      "date": "2026-10-05",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-263",
+      "opportunityId": "opp-005",
+      "contactId": "con-007",
+      "date": "2026-10-06",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "no_answer",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-264",
+      "opportunityId": "opp-028",
+      "contactId": "con-036",
+      "date": "2026-10-06",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-265",
+      "opportunityId": "opp-006",
+      "contactId": "con-009",
+      "date": "2026-10-07",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-266",
+      "opportunityId": "opp-035",
+      "contactId": "con-044",
+      "date": "2026-10-07",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-267",
+      "opportunityId": "opp-080",
+      "contactId": "con-105",
+      "date": "2026-10-07",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-268",
+      "opportunityId": "opp-084",
+      "contactId": "con-111",
+      "date": "2026-10-07",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-269",
+      "opportunityId": "opp-088",
+      "contactId": "con-116",
+      "date": "2026-10-07",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-270",
+      "opportunityId": "opp-094",
+      "contactId": "con-126",
+      "date": "2026-10-07",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "voicemail",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-271",
+      "opportunityId": "opp-005",
+      "contactId": "con-007",
+      "date": "2026-10-08",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-272",
+      "opportunityId": "opp-015",
+      "contactId": "con-019",
+      "date": "2026-10-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-273",
+      "opportunityId": "opp-083",
+      "contactId": "con-110",
+      "date": "2026-10-08",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-274",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-10-09",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "proposal_sent",
+      "note": "Proposal shared"
+    },
+    {
+      "id": "act-275",
+      "opportunityId": "opp-043",
+      "contactId": "con-054",
+      "date": "2026-10-09",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-276",
+      "opportunityId": "opp-037",
+      "contactId": "con-046",
+      "date": "2026-10-10",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-277",
+      "opportunityId": "opp-084",
+      "contactId": "con-111",
+      "date": "2026-10-11",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "interested",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-278",
+      "opportunityId": "opp-015",
+      "contactId": "con-019",
+      "date": "2026-10-12",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-279",
+      "opportunityId": "opp-040",
+      "contactId": "con-051",
+      "date": "2026-10-12",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Reply received"
+    },
+    {
+      "id": "act-280",
+      "opportunityId": "opp-010",
+      "contactId": "con-013",
+      "date": "2026-10-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Logged, but stage was never updated"
+    },
+    {
+      "id": "act-281",
+      "opportunityId": "opp-037",
+      "contactId": "con-046",
+      "date": "2026-10-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-282",
+      "opportunityId": "opp-082",
+      "contactId": "con-109",
+      "date": "2026-10-13",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Intro email logged (not sent by this app)"
+    },
+    {
+      "id": "act-283",
+      "opportunityId": "opp-043",
+      "contactId": "con-054",
+      "date": "2026-10-14",
+      "type": "linkedin",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Follow-up touch"
+    },
+    {
+      "id": "act-284",
+      "opportunityId": "opp-084",
+      "contactId": "con-111",
+      "date": "2026-10-14",
+      "type": "call",
+      "direction": "outbound",
+      "outcome": "interested",
+      "note": "Qualification call"
+    },
+    {
+      "id": "act-285",
+      "opportunityId": "opp-006",
+      "contactId": "con-009",
+      "date": "2026-10-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-286",
+      "opportunityId": "opp-035",
+      "contactId": "con-044",
+      "date": "2026-10-15",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-287",
+      "opportunityId": "opp-027",
+      "contactId": "con-035",
+      "date": "2026-10-16",
+      "type": "email",
+      "direction": "inbound",
+      "outcome": "replied",
+      "note": "Confirmed go-ahead (synthetic)"
+    },
+    {
+      "id": "act-288",
+      "opportunityId": "opp-082",
+      "contactId": "con-109",
+      "date": "2026-10-16",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "sent",
+      "note": "Closing the loop — marked lost after no response"
+    },
+    {
+      "id": "act-289",
+      "opportunityId": "opp-088",
+      "contactId": "con-116",
+      "date": "2026-10-16",
+      "type": "email",
+      "direction": "outbound",
+      "outcome": "meeting_booked",
+      "note": "Meeting invite agreed"
+    }
+  ],
+  "dismissedDuplicates": [],
+  "log": []
+}

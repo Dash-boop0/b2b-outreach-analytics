@@ -1,0 +1,7 @@
+opportunity_id,date,type,direction,outcome,note
+opp-001,2026-10-16,call,outbound,no_answer,Imported call log (synthetic)
+opp-005,2026-10-16,email,inbound,replied,Imported reply (synthetic)
+opp-008,2026-10-15,linkedin,outbound,sent,Imported LinkedIn message log (synthetic)
+opp-011,2026/10/15,email,outbound,sent,Slash date is converted
+opp-999,2026-10-16,email,outbound,sent,Rejected: unknown opportunity
+opp-001,2026-02-30,fax,outbound,sent,Rejected: bad date and type

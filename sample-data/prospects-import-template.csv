@@ -1,0 +1,2 @@
+organisation_name,organisation_type,domain,region,contact_first_name,contact_last_name,contact_title,contact_email,contact_phone,stage,lost_from_stage,priority,owner,next_action,follow_up_date,notes
+Willowmere Adult Education Centre (synthetic),School,willowmere-adult-education.example.org,North,Harper,Gladwhistle,Centre Manager,harper.gladwhistle@willowmere-adult-education.example.org,,Not contacted,,high,Priya,Send introductory email,2026-10-20,Imported example row

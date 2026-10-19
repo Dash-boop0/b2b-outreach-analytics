@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>B2B Outreach Analytics</title>
+  <meta name="description" content="Sample CRM and analytics system for institutional B2B outreach: follow-ups, duplicate detection, data quality and funnel metrics with defined denominators. Runs entirely in the browser on synthetic data.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232F5BEA'/%3E%3Cpath d='M8 23V9M8 23h16M12 19l4-5 3 3 5-6' stroke='white' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="wrap">
+      <div class="brand"><span class="logo" aria-hidden="true"></span>B2B Outreach Analytics</div>
+      <nav class="tabs" aria-label="Main">
+        <a href="#dashboard" data-tab="dashboard">Dashboard</a>
+        <a href="#leads" data-tab="leads">Leads</a>
+        <a href="#quality" data-tab="quality">Data quality</a>
+        <a href="#data" data-tab="data">Import / Export</a>
+        <a href="#method" data-tab="method">Metrics &amp; method</a>
+      </nav>
+      <div class="asof" id="asof"></div>
+    </div>
+  </header>
+  <div class="banner" id="banner" role="note">
+    <div class="wrap"><strong>Synthetic sample data.</strong> All organisations, people and results are fictional. This app never sends email or contacts anyone — activities are log entries only.</div>
+  </div>
+  <main id="main" class="wrap" tabindex="-1">
+    <div id="view"><p class="muted">Loading…</p></div>
+    <noscript><p class="errors">This app needs JavaScript enabled.</p></noscript>
+  </main>
+  <dialog id="dialog" aria-labelledby="dialog-title"></dialog>
+  <div id="status" class="status" role="status" aria-live="polite"></div>
+  <footer>
+    <div class="wrap">Portfolio project by <a href="https://dash-boop0.github.io/">Dash-boop0</a> · <a href="https://github.com/Dash-boop0/b2b-outreach-analytics">Source on GitHub</a> · Sample data is synthetic</div>
+  </footer>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

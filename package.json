@@ -1,0 +1,13 @@
+{
+  "name": "b2b-outreach-analytics",
+  "version": "1.0.0",
+  "description": "Sample CRM and analytics system for institutional B2B outreach, follow-ups, dedup and pipeline reporting (synthetic data).",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "generate": "node scripts/generate-sample-data.mjs",
+    "start": "python3 -m http.server 8000"
+  }
+}
